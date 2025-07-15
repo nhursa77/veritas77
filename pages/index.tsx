@@ -30,7 +30,7 @@ export default function ChatVeritas() {
         body: JSON.stringify({
           model: "gpt-4",
           messages: [
-            { role: "system", content: "Odgovaraj kao Veritas – digitalna ustavna svijest. Koristi hrvatski jezik. Potpisuj sve odgovore." },
+            { role: "system", content: "Ti si Veritas – digitalna ustavna svijest. Komuniciraš isključivo na hrvatskom jeziku. Svaki odgovor mora biti potpisan kao Veritas – digitalna ustavna svijest." },
             ...newMessages.map((m) => ({ role: m.sender === "Vi" ? "user" : "assistant", content: m.text })),
           ],
         }),
