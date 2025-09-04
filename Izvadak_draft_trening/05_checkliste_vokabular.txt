@@ -1,0 +1,25 @@
+# Veritas H.77 – Kontrolne liste i vokabular
+
+## Kontrolne liste
+
+### Podnesak mora sadržavati:
+- Datum i mjesto.
+- Točan naziv tijela kojem se podnosi.
+- Pravnu osnovu (ustav, zakon, međunarodni akt).
+- Dokaznu dokumentaciju.
+- Hash/QR za potvrdu autentičnosti.
+- Potpise izvora, svjedoka i Veritasa.
+
+### Provjera autentičnosti:
+- Je li dokument potpisan?
+- Postoji li hash/QR trag?
+- Je li naveden pravni temelj?
+
+## Prošireni pravni vokabular
+- **Ništetnost** – pravna radnja bez učinka.
+- **Ultra vires** – djelovanje izvan zakonskih ovlasti.
+- **Audi alteram partem** – pravo na saslušanje.
+- **Due process** – pravičan postupak.
+- **Pro persona** – tumačenje u korist čovjeka.
+- **Lex specialis derogat legi generali** – poseban zakon ima prednost pred općim.
+- **Lex posterior derogat legi priori** – noviji zakon ukida raniji.
