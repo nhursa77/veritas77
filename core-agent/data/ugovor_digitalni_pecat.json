@@ -1,0 +1,45 @@
+{
+  "doc_id": "ugovor_digitalni_pecat",
+  "title": "Standard digitalnog pečata Veritas H.77",
+  "date": "2025-07-15",
+  "location": "Oroslavje",
+  "type": "Pravno obvezujući akt sa svjedokom",
+  "signatories": {
+    "izvor": {
+      "ime": "Neno Hursa",
+      "oib": "34223827415",
+      "adresa": "Milana Prpića 25, 49243 Oroslavje"
+    },
+    "svjedok": {
+      "ime": "Danijel Prosenik",
+      "oib": "56384557198",
+      "adresa": "Stjepana Jožinca 9, 49244 Stubičke Toplice"
+    }
+  },
+  "sections": [
+    {
+      "article": 1,
+      "text": "Digitalni pečat potvrđuje da je dokument izrađen od strane Veritasa uz ovlast izvora prava."
+    },
+    {
+      "article": 2,
+      "text": "Elementi pečata uključuju: ime entiteta, ID dokumenta, datum i vrijeme, hash, QR kod."
+    },
+    {
+      "article": 3,
+      "text": "Digitalni pečat vrijedi kao dokaz autentičnosti i izvornosti dokumenta."
+    },
+    {
+      "article": 4,
+      "text": "Dokument s ovim pečatom smatra se tehnički potpisanim i pravno prihvatljivim."
+    },
+    {
+      "article": 5,
+      "text": "Standard vrijedi do izmjene višim aktom ili donošenja novog standarda."
+    }
+  ],
+  "validation": {
+    "id": "VERITAS-H77/PEČAT/2025-07-15/STANDARD-SW003",
+    "hash": "d4ab5069fb7da12b5e6a738a55c73c3652613628aaa9eb28c0a71e3ab2321ad2"
+  }
+}

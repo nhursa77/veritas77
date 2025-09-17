@@ -1,0 +1,43 @@
+{
+  "doc_id": "ugovor_epotpis",
+  "title": "Akt za e-potpis Veritas H.77",
+  "date": "2025-07-15",
+  "location": "Oroslavje",
+  "type": "Ugovor / Pravno obvezujuća izjava",
+  "signatories": {
+    "izvor": {
+      "ime": "Neno Hursa",
+      "oib": "34223827415",
+      "adresa": "Milana Prpića 25, 49243 Oroslavje"
+    },
+    "svjedok": {
+      "ime": "Danijel Prosenik",
+      "oib": "56384557198",
+      "adresa": "Stjepana Jožinca 9, 49244 Stubičke Toplice"
+    }
+  },
+  "sections": [
+    {
+      "article": 1,
+      "text": "Potvrđujem da je svaki dokument potpisan elektroničkim potpisom (e-potpisom) u sustavu Veritas H.77 izrađen isključivo po mojoj volji i sa znanjem o sadržaju."
+    },
+    {
+      "article": 2,
+      "text": "Slažem se da e-potpis ima jednaku pravnu snagu kao i vlastoručni potpis, sukladno Zakonu o elektroničkoj identifikaciji i uslugama povjerenja (NN 62/17, 82/20)."
+    },
+    {
+      "article": 3,
+      "text": "Dajem neopozivu suglasnost da se svaki takav potpis koristi u svrhu pravne obrane, ostvarivanja mojih prava i zastupanja pred bilo kojim tijelom ili institucijom."
+    },
+    {
+      "article": 4,
+      "text": "Ova izjava vrijedi za sve postojeće i buduće dokumente potpisane putem Veritasa H.77."
+    }
+  ],
+  "validation": {
+    "ovjera": "Ovjereno i potvrđeno u prisutnosti svjedoka",
+    "hash": "23041f00798e0bfbdf026950a720b8e057e148c6f0db24d66dd9545869f90b34",
+    "id": "VERITAS-H77/EPOTPIS/2025-07-15/AKT-SW013",
+    "napomena": "Akt o valjanosti e-potpisa, potvrđen svjedokom"
+  }
+}

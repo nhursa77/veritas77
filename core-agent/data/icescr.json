@@ -1,0 +1,503 @@
+{
+  "meta": {
+    "doc_id": "un-icescr-hr",
+    "schema_version": "1.1",
+    "title": "Međunarodni pakt o gospodarskim, socijalnim i kulturnim pravima (ICESCR)",
+    "short_title": "Međunarodni pakt o gospodarskim, socijalnim i kulturnim pravima (ICESCR)",
+    "language": "hr",
+    "jurisdiction": "UN",
+    "type": "international_instrument",
+    "source": {
+      "filename": "medjunarodni_pakt_o_gospodarskim_socijalnim_i_kulturnim_pravima_txt.md"
+    },
+    "version": null,
+    "created_at": "2025-09-13T17:06:07Z",
+    "tokenizer": "hr_HR_basic",
+    "structure": {
+      "parts": [
+        {
+          "label": "Dio",
+          "number": "I",
+          "title": "Članak 1."
+        },
+        {
+          "label": "Dio",
+          "number": "II",
+          "title": "Članak 2."
+        },
+        {
+          "label": "Dio",
+          "number": "III",
+          "title": "Članak 6."
+        },
+        {
+          "label": "Dio",
+          "number": "IV",
+          "title": "Članak 16."
+        },
+        {
+          "label": "Dio",
+          "number": "V",
+          "title": "Članak 26."
+        }
+      ]
+    }
+  },
+  "articles": [
+    {
+      "id": "un-icescr-hr-cl-1",
+      "number": "1",
+      "heading": "l\\. Svi narodi imaju pravo na samoodređenje. Na temelju toga prava oni",
+      "text": "slobodno određuju svoj politički status i osiguravaju svoj gospodarski,\ndruštveni i kulturni razvoj.\n\n\\* Republika Hrvatska stranka je Međunarodnog pakta o građanskim i\npolitičkim pravima od 6.\n\nlistopada 1991. godine prema Odluci o objavljivanju mnogostranih\nmeđunarodnih ugovora kojih je Republika Hrvatska stranka na temelju\nnotifikacija o sukcesiji. Tu odluku donijela je Vlada Republike Hrvatske\n30. rujna 1993. godine (Narodne novine - Međunarodni ugovori, br.\n12/1993.) Prema odredbi II. te Odluke \"Tekstovi mnogostranih\nmeđunarodnih ugovora iz točke I. ove Odluke, objavljeni u službenim\nglasilima država sljednica, važe i primjenjuju se kao službeni tekstovi\ndo objave službenih tekstova tih međunarodnih ugovora na hrvatskom\njeziku u Narodnim novinama - Međunarodni ugovori.\"\n\nSlužbeni tekst Međunarodnog pakta o građanskim i političkim pravima\nobjavljen je u Službenom listu SFRJ, br. 7/1971., i još uvijek je jedini\nslužbeni prijevod.\n\n1  \n\n2\\. Svi narodi mogu slobodno raspolagati svojim prirodnim bogatstvima i\nizvorima za svoje osobne ciljeve bez ugrožavanja obveza koje proizlaze\niz međunarodne gospodarske suradnje temeljene na načelu uzajamne koristi\ni na međunarodnom pravu. Ni u kojem slučaju se neki narod ne smije\nlišiti sredstava za svoj opstanak.\n\n3\\. Države stranke ovoga Pakta, uključujući i one koje su odgovorne za\nupravu nad nesamoupravnim područjima i područjima koja se nalaze pod\nnjihovim starateljstvom, dužne su promicati ostvarenje prava na\nsamoodređenje i poštivati to pravo u skladu s odredbama Povelje\nUjedinjenih naroda.\n\nDIO II.",
+      "sentences": [
+        "slobodno određuju svoj politički status i osiguravaju svoj gospodarski,\ndruštveni i kulturni razvoj.\n\n\\* Republika Hrvatska stranka je Međunarodnog pakta o građanskim i\npolitičkim pravima od 6.\n\nlistopada 1991. godine prema Odluci o objavljivanju mnogostranih\nmeđunarodnih ugovora kojih je Republika Hrvatska stranka na temelju\nnotifikacija o sukcesiji.",
+        "Tu odluku donijela je Vlada Republike Hrvatske\n30. rujna 1993. godine (Narodne novine - Međunarodni ugovori, br.\n12/1993.) Prema odredbi II. te Odluke \"Tekstovi mnogostranih\nmeđunarodnih ugovora iz točke I. ove Odluke, objavljeni u službenim\nglasilima država sljednica, važe i primjenjuju se kao službeni tekstovi\ndo objave službenih tekstova tih međunarodnih ugovora na hrvatskom\njeziku u Narodnim novinama - Međunarodni ugovori.\"\n\nSlužbeni tekst Međunarodnog pakta o građanskim i političkim pravima\nobjavljen je u Službenom listu SFRJ, br. 7/1971., i još uvijek je jedini\nslužbeni prijevod.\n\n1  \n\n2\\.",
+        "Svi narodi mogu slobodno raspolagati svojim prirodnim bogatstvima i\nizvorima za svoje osobne ciljeve bez ugrožavanja obveza koje proizlaze\niz međunarodne gospodarske suradnje temeljene na načelu uzajamne koristi\ni na međunarodnom pravu.",
+        "Ni u kojem slučaju se neki narod ne smije\nlišiti sredstava za svoj opstanak.\n\n3\\.",
+        "Države stranke ovoga Pakta, uključujući i one koje su odgovorne za\nupravu nad nesamoupravnim područjima i područjima koja se nalaze pod\nnjihovim starateljstvom, dužne su promicati ostvarenje prava na\nsamoodređenje i poštivati to pravo u skladu s odredbama Povelje\nUjedinjenih naroda.",
+        "DIO II."
+      ],
+      "hash": "7759b2ca6fd26342d3f53769d58a583b479bb2c2908b46748288cd1a57ac5493",
+      "tokens_approx": 224,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-icescr-hr-cl-2",
+      "number": "2",
+      "heading": "l\\. Svaka država stranka ovoga Pakta se obvezuje da će samostalno i",
+      "text": "putem međunarodne pomoći i suradnje, osobito gospodarske i tehničke, i\ndo krajnjih mogućnosti svojih raspoloživih izvora, poduzeti mjere kako\nbi postupno postigla puno ostvarenje prava priznatih u ovom Paktu, uz\nkorištenje svih odgovarajućih sredstava, osobito donošenjem zakonskih\nmjera.\n\n2\\. Države stranke ovoga Pakta se obvezuju jamčiti da će prava utvrđena\nu ovom Paktu biti ostvarena bez ikakve diskriminacije glede rase, boje\nkože, spola, jezika, vjere, političkog ili drugog uvjerenja, nacionalnog\nili socijalnog podrijetla, imovine, rođenja ili neke druge okolnosti.\n\n3\\. Vodeći računa o ljudskim pravima i svom gospodarstvu, zemlje u\nrazvoju mogu odrediti u kojoj mjeri će jamčiti gospodarska prava\npriznata u ovom Paktu osobama koje nisu njihovi građani.",
+      "sentences": [
+        "putem međunarodne pomoći i suradnje, osobito gospodarske i tehničke, i\ndo krajnjih mogućnosti svojih raspoloživih izvora, poduzeti mjere kako\nbi postupno postigla puno ostvarenje prava priznatih u ovom Paktu, uz\nkorištenje svih odgovarajućih sredstava, osobito donošenjem zakonskih\nmjera.\n\n2\\.",
+        "Države stranke ovoga Pakta se obvezuju jamčiti da će prava utvrđena\nu ovom Paktu biti ostvarena bez ikakve diskriminacije glede rase, boje\nkože, spola, jezika, vjere, političkog ili drugog uvjerenja, nacionalnog\nili socijalnog podrijetla, imovine, rođenja ili neke druge okolnosti.\n\n3\\.",
+        "Vodeći računa o ljudskim pravima i svom gospodarstvu, zemlje u\nrazvoju mogu odrediti u kojoj mjeri će jamčiti gospodarska prava\npriznata u ovom Paktu osobama koje nisu njihovi građani."
+      ],
+      "hash": "ece0790cce847ccf2b030aadc726812d09cd89ef8ed17e8c5c77e8f1ae5f4495",
+      "tokens_approx": 109,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-icescr-hr-cl-3",
+      "number": "3",
+      "heading": "Države stranke ovoga Pakta se obvezuju da će muškarcima i ženama",
+      "text": "osigurati jednako pravo na uživanje svih gospodarskih, socijalnih i\nkulturnih prava utvrđenih u ovom Paktu.",
+      "sentences": [
+        "osigurati jednako pravo na uživanje svih gospodarskih, socijalnih i\nkulturnih prava utvrđenih u ovom Paktu."
+      ],
+      "hash": "985e8be27b360e4d28e26aae7358599c56ae83c8c33e1349edf8bacef4c86d00",
+      "tokens_approx": 15,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-icescr-hr-cl-4",
+      "number": "4",
+      "heading": "Države stranke ovoga Pakta priznaju da država može, glede uživanja prava",
+      "text": "koje osigurava u skladu s ovim Paktom, podvrgnuti ta prava samo onim\nograničenjima koja propisuje zakon, samo toliko koliko je to spojivo s\nnaravi tih prava i isključivo radi ostvarivanja općeg blagostanja u\ndemokratskom društvu.",
+      "sentences": [
+        "koje osigurava u skladu s ovim Paktom, podvrgnuti ta prava samo onim\nograničenjima koja propisuje zakon, samo toliko koliko je to spojivo s\nnaravi tih prava i isključivo radi ostvarivanja općeg blagostanja u\ndemokratskom društvu."
+      ],
+      "hash": "2a9a38c5641f08e3f142b274de2eb6306f7f3b5df1d13bc5790e4013e70c595a",
+      "tokens_approx": 35,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-icescr-hr-cl-5",
+      "number": "5",
+      "heading": "l\\. Ništa se u ovom Paktu ne smije tumačiti tako da podrazumijeva pravo",
+      "text": "neke države, grupe ili pojedinca da poduzmu bilo koju akciju ili izvrše\nbilo koji čin kojim se\n\n2  \n\nponištava neko od ovdje utvrđenih prava i sloboda, ili ograničava u\nvećoj mjeri nego što je to Paktom predviđeno.\n\n2\\. Nije dopušteno nikakvo ograničavanje ili derogiranje temeljnih\nljudskih prava koja su priznata ili koja prema zakonu, konvenciji,\npropisima ili običaju postoje u nekoj državi stranci ovoga Pakta, pod\nizgovorom da ovaj Pakt ne priznaje takva prava ili da ih priznaje u\nmanjem opsegu.\n\nDIO III.",
+      "sentences": [
+        "neke države, grupe ili pojedinca da poduzmu bilo koju akciju ili izvrše\nbilo koji čin kojim se\n\n2  \n\nponištava neko od ovdje utvrđenih prava i sloboda, ili ograničava u\nvećoj mjeri nego što je to Paktom predviđeno.\n\n2\\.",
+        "Nije dopušteno nikakvo ograničavanje ili derogiranje temeljnih\nljudskih prava koja su priznata ili koja prema zakonu, konvenciji,\npropisima ili običaju postoje u nekoj državi stranci ovoga Pakta, pod\nizgovorom da ovaj Pakt ne priznaje takva prava ili da ih priznaje u\nmanjem opsegu.",
+        "DIO III."
+      ],
+      "hash": "1279bcecfe429d79b9f2ba0a26e12cab4f1dec88d453703893dcd4e41047c719",
+      "tokens_approx": 83,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-icescr-hr-cl-6",
+      "number": "6",
+      "heading": "l\\. Države stranke ovoga Pakta priznaju pravo na rad koje uključuje",
+      "text": "pravo svakoga na mogućnost da živi od slobodno izabranog ili prihvaćenog\nrada, i poduzet će odgovarajuće mjere kako bi zaštitile to pravo.\n\n2\\. Mjere koje neka država stranka ovoga Pakta primjenjuje radi punog\nostvarenja ovoga prava moraju uključivati programe, politike i postupke\ntehničkog i stručnog usmjeravanja i izobrazbe, kako bi se postigao\nstalan gospodarski, društveni i kulturni razvoj te puna i korisna\nzaposlenost u uvjetima u kojima se pojedincu jamče temeljne političke i\ngospodarske slobode.",
+      "sentences": [
+        "pravo svakoga na mogućnost da živi od slobodno izabranog ili prihvaćenog\nrada, i poduzet će odgovarajuće mjere kako bi zaštitile to pravo.\n\n2\\.",
+        "Mjere koje neka država stranka ovoga Pakta primjenjuje radi punog\nostvarenja ovoga prava moraju uključivati programe, politike i postupke\ntehničkog i stručnog usmjeravanja i izobrazbe, kako bi se postigao\nstalan gospodarski, društveni i kulturni razvoj te puna i korisna\nzaposlenost u uvjetima u kojima se pojedincu jamče temeljne političke i\ngospodarske slobode."
+      ],
+      "hash": "df989605d6ae8348727926f69a133e6449b3db285f7585283d388599b46544de",
+      "tokens_approx": 75,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-icescr-hr-cl-7",
+      "number": "7",
+      "heading": "Države stranke ovoga Pakta priznaju svakome pravo da uživa pravedne i",
+      "text": "povoljne radne uvjete kojima se napose osigurava:\n\na\\) naknada koja svim radnicima omogućuje barem:\n\n\\(i\\) pravedne plaće i jednaku naknadu za rad iste vrijednosti bez\nikakvog\n\nrazlikovanja i osobito ženama jamči radne uvjete jednake onima koje\nuživaju muškarci, uz jednaku naknadu za isti rad;\n\n\\(ii\\) pristojan život za njih i njihove obitelji u skladu s odredbama\novoga Pakta;\n\nb\\) sigurni i zdravi radni uvjeti;\n\nc\\) svakome jednaka mogućnost unaprjeđenja u zaposlenju na odgovarajući\nviši stupanj, uzimajući u obzir samo navršene godine službe i\nsposobnosti;\n\nd\\) odmor, slobodno vrijeme, razumno smanjenje radnih sati i povremeni\nplaćeni neradni dani, kao i naknada za državne praznike.",
+      "sentences": [
+        "povoljne radne uvjete kojima se napose osigurava:\n\na\\) naknada koja svim radnicima omogućuje barem:\n\n\\(i\\) pravedne plaće i jednaku naknadu za rad iste vrijednosti bez\nikakvog\n\nrazlikovanja i osobito ženama jamči radne uvjete jednake onima koje\nuživaju muškarci, uz jednaku naknadu za isti rad;\n\n\\(ii\\) pristojan život za njih i njihove obitelji u skladu s odredbama\novoga Pakta;\n\nb\\) sigurni i zdravi radni uvjeti;\n\nc\\) svakome jednaka mogućnost unaprjeđenja u zaposlenju na odgovarajući\nviši stupanj, uzimajući u obzir samo navršene godine službe i\nsposobnosti;\n\nd\\) odmor, slobodno vrijeme, razumno smanjenje radnih sati i povremeni\nplaćeni neradni dani, kao i naknada za državne praznike."
+      ],
+      "hash": "47088429e7ebc39ec82e2e05e1d68e2ba2b103d4d999efd3931e8f4718384afd",
+      "tokens_approx": 103,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-icescr-hr-cl-8",
+      "number": "8",
+      "heading": "1\\. Države stranke ovoga Pakta se obvezuju da će osigurati:",
+      "text": "a\\) svakome pravo da, radi unaprjeđenja i zaštite svojih gospodarskih i\nsocijalnih interesa, osniva sindikate i pristupi sindikatu po svom\nizboru, ovisno jedino o pravilima određene organizacije. Nikakva\nograničenja ne mogu se postaviti\n\n3  \n\nostvarenju toga prava, osim onih koja su propisana zakonom i koja su u\ndemokratskom društvu prijeko potrebna radi interesa državne sigurnosti\nili javnog reda, ili zaštite prava i sloboda drugih;\n\nb\\) pravo sindikata na osnivanje nacionalnih federacija ili\nkonfederacija i pravo konfederacija na osnivanje ili pridruživanje\nmeđunarodnim sindikalnim organizacijama;\n\nc\\) pravo sindikata na slobodu djelovanja, uz samo ona ograničenja koja\npropisuje zakon i koja su u demokratskom društvu prijeko potrebna radi\ninteresa državne sigurnosti ili javnog reda, ili radi zaštite prava i\nsloboda drugih;\n\nd\\) pravo na štrajk, uz uvjet da se on vodi u skladu sa zakonima\nodređene zemlje. 2. Ovaj članak ne zabranjuje nametanje zakonskih\nograničenja u ostvarivanju toga\n\nprava pripadnicima oružanih snaga ili policije ili državnih službi.\n\n3\\. Ništa u ovom članku ne daje pravo državama strankama Konvencije\nMeđunarodne organizacije rada iz 1948. o slobodi sindikalnog udruživanja\ni zaštiti prava na udruživanje, da poduzmu zakonske mjere ili da\nprimijene zakon na način kojim bi se ugrozila jamstava predviđena tom\nKonvencijom.",
+      "sentences": [
+        "a\\) svakome pravo da, radi unaprjeđenja i zaštite svojih gospodarskih i\nsocijalnih interesa, osniva sindikate i pristupi sindikatu po svom\nizboru, ovisno jedino o pravilima određene organizacije.",
+        "Nikakva\nograničenja ne mogu se postaviti\n\n3  \n\nostvarenju toga prava, osim onih koja su propisana zakonom i koja su u\ndemokratskom društvu prijeko potrebna radi interesa državne sigurnosti\nili javnog reda, ili zaštite prava i sloboda drugih;\n\nb\\) pravo sindikata na osnivanje nacionalnih federacija ili\nkonfederacija i pravo konfederacija na osnivanje ili pridruživanje\nmeđunarodnim sindikalnim organizacijama;\n\nc\\) pravo sindikata na slobodu djelovanja, uz samo ona ograničenja koja\npropisuje zakon i koja su u demokratskom društvu prijeko potrebna radi\ninteresa državne sigurnosti ili javnog reda, ili radi zaštite prava i\nsloboda drugih;\n\nd\\) pravo na štrajk, uz uvjet da se on vodi u skladu sa zakonima\nodređene zemlje. 2.",
+        "Ovaj članak ne zabranjuje nametanje zakonskih\nograničenja u ostvarivanju toga\n\nprava pripadnicima oružanih snaga ili policije ili državnih službi.\n\n3\\.",
+        "Ništa u ovom članku ne daje pravo državama strankama Konvencije\nMeđunarodne organizacije rada iz 1948. o slobodi sindikalnog udruživanja\ni zaštiti prava na udruživanje, da poduzmu zakonske mjere ili da\nprimijene zakon na način kojim bi se ugrozila jamstava predviđena tom\nKonvencijom."
+      ],
+      "hash": "5a62da6e7d158ee48e087ceeda1bf3bf8f9af5947de62601d8f650f8f1f87282",
+      "tokens_approx": 197,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-icescr-hr-cl-9",
+      "number": "9",
+      "heading": "Države stranke ovoga Pakta priznaju svakome pravo na socijalnu",
+      "text": "sigurnost, uključujući socijalno osiguranje.",
+      "sentences": [
+        "sigurnost, uključujući socijalno osiguranje."
+      ],
+      "hash": "85006f5379d078fcf3bde4b700ac13f0582ac15185df3a8fa2c4f63f7761f850",
+      "tokens_approx": 4,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-icescr-hr-cl-10",
+      "number": "10",
+      "heading": "Države stranke ovoga Pakta priznaju da:",
+      "text": "1\\. Obitelj, koja je prirodna i temeljna društvena jedinica, treba imati\nnajveću moguću zaštitu i pomoć, napose za osnivanja i dok je odgovorna\nza skrb i odgoj malodobne djece. Brak se može sklopiti samo uz slobodan\npristanak osoba koje namjeravaju ući u brak.\n\n2\\. Majkama treba pružiti posebnu zaštitu u razumnom trajanju prije i\nposlije rođenja djeteta. Tijekom tog razdoblja, zaposlenim majkama treba\nosigurati plaćeni dopust ili dopust s odgovarajućim povlasticama\nsocijalnog osiguranja.\n\n3\\. Treba poduzeti posebne mjere zaštite i pomoći za dobrobit sve djece\ni mladeži, bez ikakve diskriminacije zbog njihova podrijetla ili drugih\nokolnosti. Djecu i mladež treba zaštititi od ekonomskog i socijalnog\nizrabljivanja. Zapošljavanje na poslovima koji ugrožavaju njihov moral\nili zdravlje, koji su opasni po njihov život, ili koji mogu štetiti\nnjihovu normalnom razvoju, treba biti kažnjivo zakonom. Države također\ntrebaju odrediti dobnu granicu ispod koje se plaćeni dječji rad zakonom\nzabranjuje i kažnjava.",
+      "sentences": [
+        "1\\.",
+        "Obitelj, koja je prirodna i temeljna društvena jedinica, treba imati\nnajveću moguću zaštitu i pomoć, napose za osnivanja i dok je odgovorna\nza skrb i odgoj malodobne djece.",
+        "Brak se može sklopiti samo uz slobodan\npristanak osoba koje namjeravaju ući u brak.\n\n2\\.",
+        "Majkama treba pružiti posebnu zaštitu u razumnom trajanju prije i\nposlije rođenja djeteta.",
+        "Tijekom tog razdoblja, zaposlenim majkama treba\nosigurati plaćeni dopust ili dopust s odgovarajućim povlasticama\nsocijalnog osiguranja.\n\n3\\.",
+        "Treba poduzeti posebne mjere zaštite i pomoći za dobrobit sve djece\ni mladeži, bez ikakve diskriminacije zbog njihova podrijetla ili drugih\nokolnosti.",
+        "Djecu i mladež treba zaštititi od ekonomskog i socijalnog\nizrabljivanja.",
+        "Zapošljavanje na poslovima koji ugrožavaju njihov moral\nili zdravlje, koji su opasni po njihov život, ili koji mogu štetiti\nnjihovu normalnom razvoju, treba biti kažnjivo zakonom.",
+        "Države također\ntrebaju odrediti dobnu granicu ispod koje se plaćeni dječji rad zakonom\nzabranjuje i kažnjava."
+      ],
+      "hash": "c18219a0ac85dfb708b16f601e5c0a43e84828303f28a283414e829b96b767da",
+      "tokens_approx": 148,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-icescr-hr-cl-11",
+      "number": "11",
+      "heading": "1\\. Države stranke ovoga Pakta priznaju svakome pravo na životni",
+      "text": "standard koji odgovara njemu i njegovoj obitelji, uključujući\nodgovarajuću prehranu, odjeću i stanovanje, kao i pravo na neprekidno\npoboljšanje životnih uvjeta. Države stranke\n\n4  \n\npoduzet će potrebne mjere radi ostvarivanja ovoga prava, priznajući pri\ntome bitnu važnost međunarodne suradnje temeljene na slobodnom\npristanku.\n\n2\\. Priznajući svakome temeljno pravo na slobodu od gladi, države\nstranke ovoga Pakta će pojedinačno i putem međunarodne suradnje poduzeti\nmjere, uključujući posebne programe, kako bi:\n\na\\) poboljšale metode proizvodnje, očuvanja i raspodjele hrane punim\nkorištenjem tehničkog i znanstvenog znanja, širenjem znanja o načelima\nzdrave prehrane i unaprjeđenjem ili izmjenom agrarnih sustava, na način\nkojim se osigurava najdjelotvorniji razvoj i iskorištavanje prirodnih\nizvora;\n\nb\\) osigurale pravednu raspodjelu svjetskih zaliha hrane u skladu s\npotrebama, vodeći računa o problemima zemalja uvoznica i zemalja\nizvoznica hrane.",
+      "sentences": [
+        "standard koji odgovara njemu i njegovoj obitelji, uključujući\nodgovarajuću prehranu, odjeću i stanovanje, kao i pravo na neprekidno\npoboljšanje životnih uvjeta.",
+        "Države stranke\n\n4  \n\npoduzet će potrebne mjere radi ostvarivanja ovoga prava, priznajući pri\ntome bitnu važnost međunarodne suradnje temeljene na slobodnom\npristanku.\n\n2\\.",
+        "Priznajući svakome temeljno pravo na slobodu od gladi, države\nstranke ovoga Pakta će pojedinačno i putem međunarodne suradnje poduzeti\nmjere, uključujući posebne programe, kako bi:\n\na\\) poboljšale metode proizvodnje, očuvanja i raspodjele hrane punim\nkorištenjem tehničkog i znanstvenog znanja, širenjem znanja o načelima\nzdrave prehrane i unaprjeđenjem ili izmjenom agrarnih sustava, na način\nkojim se osigurava najdjelotvorniji razvoj i iskorištavanje prirodnih\nizvora;\n\nb\\) osigurale pravednu raspodjelu svjetskih zaliha hrane u skladu s\npotrebama, vodeći računa o problemima zemalja uvoznica i zemalja\nizvoznica hrane."
+      ],
+      "hash": "a8f7eec496d8f326ae385265229d6e20f84b7f369baa4d71a25d4b5cd3900102",
+      "tokens_approx": 127,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-icescr-hr-cl-12",
+      "number": "12",
+      "heading": "1\\. Države stranke ovoga Pakta priznaju svakome pravo na uživanje",
+      "text": "najvišeg mogućeg standarda tjelesnog i duševnog zdravlja.\n\n2\\. Mjere koje će države stranke ovoga Pakta poduzeti u cilju punog\nostvarenja toga prava trebaju uključivati:\n\na\\) smanjenje stope mrtvorođenčadi i smrtnosti djece te zdravog razvoja\ndjeteta;\n\nb\\) poboljšanje svih oblika higijene okoliša i industrijske higijene;\n\nc\\) prevenciju, liječenje i nadzor nad epidemijskim, endemijskim,\nprofesionalnim i drugim bolestima;\n\nd\\) stvaranje uvjeta u kojima će svi imati osiguranu liječničku skrb i\nnjegu u slučaju bolesti.",
+      "sentences": [
+        "najvišeg mogućeg standarda tjelesnog i duševnog zdravlja.\n\n2\\.",
+        "Mjere koje će države stranke ovoga Pakta poduzeti u cilju punog\nostvarenja toga prava trebaju uključivati:\n\na\\) smanjenje stope mrtvorođenčadi i smrtnosti djece te zdravog razvoja\ndjeteta;\n\nb\\) poboljšanje svih oblika higijene okoliša i industrijske higijene;\n\nc\\) prevenciju, liječenje i nadzor nad epidemijskim, endemijskim,\nprofesionalnim i drugim bolestima;\n\nd\\) stvaranje uvjeta u kojima će svi imati osiguranu liječničku skrb i\nnjegu u slučaju bolesti."
+      ],
+      "hash": "e3a94e4a5236e5112cfa7075c75655eaa463fb1229c0d15c71f37b7a2c800f4e",
+      "tokens_approx": 72,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-icescr-hr-cl-13",
+      "number": "13",
+      "heading": "1\\. Države stranke ovoga Pakta priznaju svakome pravo na odgoj i",
+      "text": "obrazovanje. One su suglasne u tome da se odgoj i obrazovanje mora\nusmjeriti u pravcu punog razvoja ljudske osobe i svijesti o ljudskom\ndostojanstvu, i da mora jačati poštivanje ljudskih prava i temeljnih\nsloboda. One su također suglasne u tome da obrazovanje mora omogućiti\nsvim ljudima djelotvorno sudjelovanje u slobodnom društvu, promicati\nrazumijevanje, snošljivost i prijateljstvo medu svim narodima, rasnim,\netničkim ili vjerskim grupama te podupirati djelatnosti Ujedinjenih\nnaroda na održanju mira.\n\n2\\. U cilju punog ostvarenja toga prava, države stranke ovoga Pakta\npriznaju:\n\na\\) da osnovno obrazovanje mora biti obvezno i besplatno za sve;\n\nb\\) da se srednje obrazovanje u svojim različitim oblicima, uključujući\ntehničko i strukovno srednje obrazovanje, mora učiniti raspoloživim i\ndostupnim svima korištenjem svih odgovarajućih sredstava, napose\npostupnim uvođenjem besplatnog obrazovanja;\n\nc\\) da se više i visoko obrazovanje mora učiniti jednako dostupnim svima\nprema sposobnostima korištenjem svih odgovarajućih sredstava, napose\npostupnim uvođenjem besplatnog obrazovanja,\n\n5  \n\nd\\) da, koliko je god to moguće, treba poticati ili unaprjeđivati\nosnovno obrazovanje za osobe koje nemaju ili nisu završile osnovno\nobrazovanje u njegovu punom trajanju;\n\ne\\) da treba aktivno razvijati školsku mrežu na svim razinama, uvesti\nodgovarajući sustav stipendiranja i stalno poboljšavati materijalni\npoložaj učitelja.\n\n3\\. Države stranke ovoga Pakta se obvezuju da će poštivati slobodu\nroditelja i, gdje postoji takav slučaj, zakonskih skrbnika da mimo škola\nkoje su osnovale državne vlasti, za svoju djecu izaberu druge škole koje\nudovoljavaju onim minimalnim obrazovnim standardima koje propisuje ili\nodobrava država, i da osiguraju vjerski i moralni odgoj za svoju djecu u\nskladu sa svojim osobnim uvjerenjima.\n\n4\\. Ništa se u ovom članku ne smije tumačiti tako da ograničava slobodu\npojedinaca i pravnih osoba u osnivanju i vođenju odgojnoobrazovnih\nustanova, uz uvjet da se poštuju načela izložena u stavku l. ovoga\nčlanka i da obrazovanje u tim ustanovama udovoljava minimalnim\nstandardima kako ih propisuje država.",
+      "sentences": [
+        "obrazovanje.",
+        "One su suglasne u tome da se odgoj i obrazovanje mora\nusmjeriti u pravcu punog razvoja ljudske osobe i svijesti o ljudskom\ndostojanstvu, i da mora jačati poštivanje ljudskih prava i temeljnih\nsloboda.",
+        "One su također suglasne u tome da obrazovanje mora omogućiti\nsvim ljudima djelotvorno sudjelovanje u slobodnom društvu, promicati\nrazumijevanje, snošljivost i prijateljstvo medu svim narodima, rasnim,\netničkim ili vjerskim grupama te podupirati djelatnosti Ujedinjenih\nnaroda na održanju mira.\n\n2\\.",
+        "U cilju punog ostvarenja toga prava, države stranke ovoga Pakta\npriznaju:\n\na\\) da osnovno obrazovanje mora biti obvezno i besplatno za sve;\n\nb\\) da se srednje obrazovanje u svojim različitim oblicima, uključujući\ntehničko i strukovno srednje obrazovanje, mora učiniti raspoloživim i\ndostupnim svima korištenjem svih odgovarajućih sredstava, napose\npostupnim uvođenjem besplatnog obrazovanja;\n\nc\\) da se više i visoko obrazovanje mora učiniti jednako dostupnim svima\nprema sposobnostima korištenjem svih odgovarajućih sredstava, napose\npostupnim uvođenjem besplatnog obrazovanja,\n\n5  \n\nd\\) da, koliko je god to moguće, treba poticati ili unaprjeđivati\nosnovno obrazovanje za osobe koje nemaju ili nisu završile osnovno\nobrazovanje u njegovu punom trajanju;\n\ne\\) da treba aktivno razvijati školsku mrežu na svim razinama, uvesti\nodgovarajući sustav stipendiranja i stalno poboljšavati materijalni\npoložaj učitelja.\n\n3\\.",
+        "Države stranke ovoga Pakta se obvezuju da će poštivati slobodu\nroditelja i, gdje postoji takav slučaj, zakonskih skrbnika da mimo škola\nkoje su osnovale državne vlasti, za svoju djecu izaberu druge škole koje\nudovoljavaju onim minimalnim obrazovnim standardima koje propisuje ili\nodobrava država, i da osiguraju vjerski i moralni odgoj za svoju djecu u\nskladu sa svojim osobnim uvjerenjima.\n\n4\\.",
+        "Ništa se u ovom članku ne smije tumačiti tako da ograničava slobodu\npojedinaca i pravnih osoba u osnivanju i vođenju odgojnoobrazovnih\nustanova, uz uvjet da se poštuju načela izložena u stavku l. ovoga\nčlanka i da obrazovanje u tim ustanovama udovoljava minimalnim\nstandardima kako ih propisuje država."
+      ],
+      "hash": "be1068630f6aa99b570ef0b8943ededf96b255b05cc894d233dabf3f9133cb20",
+      "tokens_approx": 303,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-icescr-hr-cl-14",
+      "number": "14",
+      "heading": "Svaka država stranka ovoga Pakta koja u času pristupanja Paktu nema",
+      "text": "osigurano obvezno i besplatno osnovno obrazovanje na svojem matičnom\npodručju ili na područjima pod njenom jurisdikcijom, obvezuje se da će u\nroku dvije godine izraditi i usvojiti detaljan plan akcije u kojemu će\nodrediti razuman rok za postupno ostvarenje načela obveznog i besplatnog\nodgoja i obrazovanja za sve.",
+      "sentences": [
+        "osigurano obvezno i besplatno osnovno obrazovanje na svojem matičnom\npodručju ili na područjima pod njenom jurisdikcijom, obvezuje se da će u\nroku dvije godine izraditi i usvojiti detaljan plan akcije u kojemu će\nodrediti razuman rok za postupno ostvarenje načela obveznog i besplatnog\nodgoja i obrazovanja za sve."
+      ],
+      "hash": "dafd6cddd7ad66efbf97828ff1dc96090b2174be8a58d3911c14bad5497b0a27",
+      "tokens_approx": 48,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-icescr-hr-cl-15",
+      "number": "15",
+      "heading": "1\\. Države stranke ovoga Pakta priznaju svakome pravo na:",
+      "text": "a\\) sudjelovanje u kulturnom životu;\n\nb\\) uživanje pogodnosti znanstvenog napretka i njegove primjene;\n\nc\\) korist od zaštite moralnih i materijalnih interesa koji proizlaze iz\nbilo kojega znanstvenog, književnog ili umjetničkog djela kojega je\nosoba autor.\n\n2\\. Mjere koje države stranke ovoga Pakta poduzimaju kako bi postigle\npuno ostvarenje toga prava, moraju obuhvatiti one koje su prijeko\npotrebne za održanje, razvoj i širenje znanosti i kulture.\n\n3\\. Države stranke ovoga Pakta se obvezuju da će poštivati slobodu koja\nje bitna za znanstveno istraživanje i stvaralačku djelatnost.\n\n4\\. Države stranke ovoga Pakta priznaju prednosti koje se postižu\npoticanjem i unaprjeđenjem međunarodnih susreta i suradnje u znanstvenim\ni kulturnim područjima.\n\nDIO IV.",
+      "sentences": [
+        "a\\) sudjelovanje u kulturnom životu;\n\nb\\) uživanje pogodnosti znanstvenog napretka i njegove primjene;\n\nc\\) korist od zaštite moralnih i materijalnih interesa koji proizlaze iz\nbilo kojega znanstvenog, književnog ili umjetničkog djela kojega je\nosoba autor.\n\n2\\.",
+        "Mjere koje države stranke ovoga Pakta poduzimaju kako bi postigle\npuno ostvarenje toga prava, moraju obuhvatiti one koje su prijeko\npotrebne za održanje, razvoj i širenje znanosti i kulture.\n\n3\\.",
+        "Države stranke ovoga Pakta se obvezuju da će poštivati slobodu koja\nje bitna za znanstveno istraživanje i stvaralačku djelatnost.\n\n4\\.",
+        "Države stranke ovoga Pakta priznaju prednosti koje se postižu\npoticanjem i unaprjeđenjem međunarodnih susreta i suradnje u znanstvenim\ni kulturnim područjima.",
+        "DIO IV."
+      ],
+      "hash": "288b58ea11b553ac89ff57b0912d9b113ce3b312e933acd0a77b4b6e75088ceb",
+      "tokens_approx": 109,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-icescr-hr-cl-16",
+      "number": "16",
+      "heading": "6",
+      "text": "l\\. Države stranke ovoga Pakta se obvezuju da će u skladu s odredbama\novoga dijela Pakta podnositi izvješća o mjerama koje su poduzele i o\nnapretku koji je postignut u poštivanju prava priznatih u ovom Paktu.\n\n2\\. a) Sva izvješća podnose se glavnom tajniku Ujedinjenih naroda koji\nkopije\n\ndostavlja Gospodarskom i socijalnom vijeću u skladu s odredbama ovoga\nPakta. b) Glavni tajnik Ujedinjenih naroda također dostavlja\nspecijaliziranim ustanovama kopije izvješća ili odgovarajuće dijelove\nizvješća onih država stranaka ovoga Pakta koje su također članice tih\nspecijaliziranih ustanova, ukoliko se ta izvješća ili njihovi dijelovi\nodnose na neki predmet koji prema ustavnim aktima specijaliziranih\nustanova spada u njihovu nadležnost.",
+      "sentences": [
+        "l\\.",
+        "Države stranke ovoga Pakta se obvezuju da će u skladu s odredbama\novoga dijela Pakta podnositi izvješća o mjerama koje su poduzele i o\nnapretku koji je postignut u poštivanju prava priznatih u ovom Paktu.\n\n2\\. a) Sva izvješća podnose se glavnom tajniku Ujedinjenih naroda koji\nkopije\n\ndostavlja Gospodarskom i socijalnom vijeću u skladu s odredbama ovoga\nPakta. b) Glavni tajnik Ujedinjenih naroda također dostavlja\nspecijaliziranim ustanovama kopije izvješća ili odgovarajuće dijelove\nizvješća onih država stranaka ovoga Pakta koje su također članice tih\nspecijaliziranih ustanova, ukoliko se ta izvješća ili njihovi dijelovi\nodnose na neki predmet koji prema ustavnim aktima specijaliziranih\nustanova spada u njihovu nadležnost."
+      ],
+      "hash": "3892b873959602ced6238682244da9ccd2e34e4e48f6def5fb63f7145452eb58",
+      "tokens_approx": 107,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-icescr-hr-cl-17",
+      "number": "17",
+      "heading": "1\\. Države stranke ovoga Pakta će podnositi svoja izvješća u razmacima,",
+      "text": "u skladu s programom koji će u roku godine dana od datuma stupanja na\nsnagu ovoga Pakta izraditi Gospodarsko i socijalno vijeće, nakon\nsavjetovanja s državama strankama i zainteresiranim specijaliziranim\nustanovama.\n\n2\\. Izvješća mogu ukazati na čimbenike i na poteškoće koji utječu na\nrazinu ispunjavanja obveza iz ovoga Pakta.\n\n3\\. Ako je neka država stranka ovoga Pakta ranije dostavila potrebne\ninformacije Ujedinjenim narodima ili nekoj specijaliziranoj ustanovi,\nona ih ne treba ponovno dostavljati nego je dovoljno na tako dostavljene\ninformacije precizno uputiti.",
+      "sentences": [
+        "u skladu s programom koji će u roku godine dana od datuma stupanja na\nsnagu ovoga Pakta izraditi Gospodarsko i socijalno vijeće, nakon\nsavjetovanja s državama strankama i zainteresiranim specijaliziranim\nustanovama.\n\n2\\.",
+        "Izvješća mogu ukazati na čimbenike i na poteškoće koji utječu na\nrazinu ispunjavanja obveza iz ovoga Pakta.\n\n3\\.",
+        "Ako je neka država stranka ovoga Pakta ranije dostavila potrebne\ninformacije Ujedinjenim narodima ili nekoj specijaliziranoj ustanovi,\nona ih ne treba ponovno dostavljati nego je dovoljno na tako dostavljene\ninformacije precizno uputiti."
+      ],
+      "hash": "a7b032fe9d613caeddb1e74b1a1152c036296b9614fc5328389d727e268e6832",
+      "tokens_approx": 82,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-icescr-hr-cl-18",
+      "number": "18",
+      "heading": "U skladu sa svojim odgovornostima u području ljudskih prava i temeljnih",
+      "text": "sloboda koje su mu dodijeljene Poveljom Ujedinjenih naroda, Gospodarsko\ni socijalno vijeće može sa specijaliziranim ustanovama utanačiti da mu\none podnose izvješća o napretku u poštivanju onih odredaba ovoga Pakta\nkoje spadaju u područje njihove djelatnosti. Ta izvješća mogu sadržavati\npodatke o odlukama i preporukama koje su o primjeni tih odredbi\nprihvatila njihova nadležna tijela.",
+      "sentences": [
+        "sloboda koje su mu dodijeljene Poveljom Ujedinjenih naroda, Gospodarsko\ni socijalno vijeće može sa specijaliziranim ustanovama utanačiti da mu\none podnose izvješća o napretku u poštivanju onih odredaba ovoga Pakta\nkoje spadaju u područje njihove djelatnosti.",
+        "Ta izvješća mogu sadržavati\npodatke o odlukama i preporukama koje su o primjeni tih odredbi\nprihvatila njihova nadležna tijela."
+      ],
+      "hash": "0d8570edb6b291931542c7a21d6958c23724d4ae51160dc6a06730c62cc3fadc",
+      "tokens_approx": 55,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-icescr-hr-cl-19",
+      "number": "19",
+      "heading": "Gospodarsko i socijalno vijeće može, radi proučavanja i davanja",
+      "text": "preporuke opće naravi ili, kad je to prikladno, radi informiranja,\ndostavljati Komisiji za ljudska prava izvješća o ljudskim pravima koja\npodnose države u skladu s člancima 16. i 17., kao i izvješća o ljudskim\npravima koja podnose specijalizirane ustanove u skladu s člankom 18.",
+      "sentences": [
+        "preporuke opće naravi ili, kad je to prikladno, radi informiranja,\ndostavljati Komisiji za ljudska prava izvješća o ljudskim pravima koja\npodnose države u skladu s člancima 16. i 17., kao i izvješća o ljudskim\npravima koja podnose specijalizirane ustanove u skladu s člankom 18."
+      ],
+      "hash": "89b54337eaad8aadb7b57ef3048bc51fa136e38dcfdcd9172bf6072dd94b2168",
+      "tokens_approx": 44,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-icescr-hr-cl-20",
+      "number": "20",
+      "heading": "Države stranke ovoga Pakta i zainteresirane specijalizirane ustanove",
+      "text": "mogu Gospodarskom i socijalnom vijeću uputiti primjedbe na svaku\npreporuku opće naravi iz članka 19. ili na svako upućivanje na opću\npreporuku iz izvješća Komisije za prava čovjeka ili neke dokumentacije\nna koju se ono poziva.\n\n7",
+      "sentences": [
+        "mogu Gospodarskom i socijalnom vijeću uputiti primjedbe na svaku\npreporuku opće naravi iz članka 19. ili na svako upućivanje na opću\npreporuku iz izvješća Komisije za prava čovjeka ili neke dokumentacije\nna koju se ono poziva.\n\n7"
+      ],
+      "hash": "8f7ea155a3e4e2282e39c6ee01a600cf0bde275b19e501f68d5400bc7533785c",
+      "tokens_approx": 37,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-icescr-hr-cl-21",
+      "number": "21",
+      "heading": "Gospodarsko i socijalno vijeće može Općoj skupštini povremeno",
+      "text": "dostavljati izvješća s preporukama opće naravi i sažetke informacija što\nih primi od država stranaka ovoga Pakta i specijaliziranih ustanova o\npoduzetim mjerama i napretku u općem poštivanju prava priznatih u ovom\nPaktu.",
+      "sentences": [
+        "dostavljati izvješća s preporukama opće naravi i sažetke informacija što\nih primi od država stranaka ovoga Pakta i specijaliziranih ustanova o\npoduzetim mjerama i napretku u općem poštivanju prava priznatih u ovom\nPaktu."
+      ],
+      "hash": "a683d0a8d31b63f5a63e7bedcd8d4eaeefae31345f588f2e0905a3bfd4d072a3",
+      "tokens_approx": 33,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-icescr-hr-cl-22",
+      "number": "22",
+      "heading": "Gospodarsko i socijalno vijeće može skrenuti pozornost drugim tijelima",
+      "text": "Ujedinjenih naroda, njihovim pomoćnim tijelima i zainteresiranim\nspecijaliziranim ustanovama koje se bave pružanjem tehničke pomoći, na\nbilo koje pitanje koje se pojavi u izvješćima iz ovoga dijela Pakta, te\nim time pomoći da u okviru svojih nadležnosti donesu odluke o onim\nmeđunarodnim mjerama koje bi postupno mogle pridonijeti djelotvornijoj\nprimjeni ovoga Pakta.",
+      "sentences": [
+        "Ujedinjenih naroda, njihovim pomoćnim tijelima i zainteresiranim\nspecijaliziranim ustanovama koje se bave pružanjem tehničke pomoći, na\nbilo koje pitanje koje se pojavi u izvješćima iz ovoga dijela Pakta, te\nim time pomoći da u okviru svojih nadležnosti donesu odluke o onim\nmeđunarodnim mjerama koje bi postupno mogle pridonijeti djelotvornijoj\nprimjeni ovoga Pakta."
+      ],
+      "hash": "c78b8d3cfe7bc0c2e5d0e0c15e8e3b19843841f38020f3b58556d923beac8af8",
+      "tokens_approx": 52,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-icescr-hr-cl-23",
+      "number": "23",
+      "heading": "Države stranke ovoga Pakta su suglasne u tome da međunarodno djelovanje",
+      "text": "u primjeni prava priznatih u ovom Paktu obuhvaća i takve metode kao što\nsu sklapanje konvencija, usvajanje preporuka, pružanje tehničke pomoći\ni, u suradnji sa zainteresiranim vladama, održavanje regionalnih i\ntehničkih sastanaka radi pružanja savjeta i proučavanja.",
+      "sentences": [
+        "u primjeni prava priznatih u ovom Paktu obuhvaća i takve metode kao što\nsu sklapanje konvencija, usvajanje preporuka, pružanje tehničke pomoći\ni, u suradnji sa zainteresiranim vladama, održavanje regionalnih i\ntehničkih sastanaka radi pružanja savjeta i proučavanja."
+      ],
+      "hash": "9371a3d1436c493d405167d9b2bc63cbc8188b63da6536489a58abb5f62c1219",
+      "tokens_approx": 37,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-icescr-hr-cl-24",
+      "number": "24",
+      "heading": "Ništa se u ovom Paktu ne smije tumačiti na štetu odredaba Povelje",
+      "text": "Ujedinjenih naroda i statuta specijaliziranih ustanova koji određuju\npripadne nadležnosti različitih tijela Ujedinjenih naroda i\nspecijaliziranih ustanova glede predmeta obuhvaćenih ovim Paktom.",
+      "sentences": [
+        "Ujedinjenih naroda i statuta specijaliziranih ustanova koji određuju\npripadne nadležnosti različitih tijela Ujedinjenih naroda i\nspecijaliziranih ustanova glede predmeta obuhvaćenih ovim Paktom."
+      ],
+      "hash": "704afe53167ad10de152752d15f9f9e65e253fbda9bb16fbaed50b4bd1c34643",
+      "tokens_approx": 22,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-icescr-hr-cl-25",
+      "number": "25",
+      "heading": "Ništa se u ovom Paktu ne smije tumačiti na štetu prirodnog prava svih",
+      "text": "naroda da potpuno i slobodno uživaju i koriste svoja prirodna bogatstva\ni izvore.\n\nDIO V.",
+      "sentences": [
+        "naroda da potpuno i slobodno uživaju i koriste svoja prirodna bogatstva\ni izvore.",
+        "DIO V."
+      ],
+      "hash": "ab20c1c94a59ba16448c0e887b51843dc42cd28ad05a85bcbc45118f131cf2f4",
+      "tokens_approx": 15,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-icescr-hr-cl-26",
+      "number": "26",
+      "heading": "1\\. Ovaj Pakt otvoren je za potpisivanje svakoj državi članici",
+      "text": "Ujedinjenih naroda ili članici bilo koje od specijaliziranih ustanova\nUjedinjenih naroda, svakoj državi stranci Statuta Međunarodnog suda\npravde i svakoj drugoj državi koju Opća skupština pozove da postane\nstrankom ovoga Pakta.\n\n2\\. Ovaj Pakt podliježe ratifikaciji. Isprave o ratifikaciji polažu se\nkod glavnog tajnika Ujedinjenih naroda.\n\n8  \n\n3\\. Ovaj Pakt otvoren je za pristup svakoj državi spomenutoj u stavku 1.\novoga članka. 4. Pristup se obavlja polaganjem isprava o pristupu kod\nglavnog tajnika Ujedinjenih naroda.\n\n5\\. Glavni tajnik Ujedinjenih naroda obavještava sve države koje su\npotpisale ili pristupile ovom Paktu o polaganju svake isprave o\nratifikaciji ili pristupu.",
+      "sentences": [
+        "Ujedinjenih naroda ili članici bilo koje od specijaliziranih ustanova\nUjedinjenih naroda, svakoj državi stranci Statuta Međunarodnog suda\npravde i svakoj drugoj državi koju Opća skupština pozove da postane\nstrankom ovoga Pakta.\n\n2\\.",
+        "Ovaj Pakt podliježe ratifikaciji.",
+        "Isprave o ratifikaciji polažu se\nkod glavnog tajnika Ujedinjenih naroda.\n\n8  \n\n3\\.",
+        "Ovaj Pakt otvoren je za pristup svakoj državi spomenutoj u stavku 1.\novoga članka. 4.",
+        "Pristup se obavlja polaganjem isprava o pristupu kod\nglavnog tajnika Ujedinjenih naroda.\n\n5\\.",
+        "Glavni tajnik Ujedinjenih naroda obavještava sve države koje su\npotpisale ili pristupile ovom Paktu o polaganju svake isprave o\nratifikaciji ili pristupu."
+      ],
+      "hash": "187058094a36ec51975502e63f41665ef0043c172792f6ca5c0473a02598ed9d",
+      "tokens_approx": 98,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-icescr-hr-cl-27",
+      "number": "27",
+      "heading": "1\\. Ovaj Pakt stupa na snagu tri mjeseca nakon datuma polaganja trideset",
+      "text": "i pete po redu isprave o ratifikaciji ili pristupu kod glavnog tajnika\nUjedinjenih naroda.\n\n2\\. Za svaku državu koja ratificira ili pristupi ovom Paktu nakon\npolaganja trideset i pete isprave o ratifikaciji ili pristupu, ovaj Pakt\npostaje pravno važeći tri mjeseca nakon što ona položi svoju ispravu o\nratifikaciji ili pristupu.",
+      "sentences": [
+        "i pete po redu isprave o ratifikaciji ili pristupu kod glavnog tajnika\nUjedinjenih naroda.\n\n2\\.",
+        "Za svaku državu koja ratificira ili pristupi ovom Paktu nakon\npolaganja trideset i pete isprave o ratifikaciji ili pristupu, ovaj Pakt\npostaje pravno važeći tri mjeseca nakon što ona položi svoju ispravu o\nratifikaciji ili pristupu."
+      ],
+      "hash": "3bd0c571fcb8fae097896b5057fdc1e4dd4c32f9440ff9352ebd409d27bb076e",
+      "tokens_approx": 51,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-icescr-hr-cl-28",
+      "number": "28",
+      "heading": "Odredbe ovoga Pakta primjenjuju se u svim dijelovima saveznih država bez",
+      "text": "ikakvih ograničenja ili izuzetaka.",
+      "sentences": [
+        "ikakvih ograničenja ili izuzetaka."
+      ],
+      "hash": "ccdeea8db35660f0a1169f56bb7f4a99020c69ca24b24d8ec14a99d517af8056",
+      "tokens_approx": 4,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-icescr-hr-cl-29",
+      "number": "29",
+      "heading": "1\\. Svaka država stranka ovoga Pakta može predložiti izmjenu ili dopunu",
+      "text": "i tekst dostaviti glavnom tajniku Ujedinjenih naroda. Nakon toga glavni\ntajnik Ujedinjenih naroda državama strankama ovoga Pakta dostavlja sve\nprijedloge izmjena ili dopuna, uz zahtjev da se izjasne jesu li za\nsazivanje konferencije država stranaka u svrhu razmatranja i glasovanja\no tim prijedlozima. Ako se najmanje jedna trećina država stranaka\nizjasni u prilog sazivanju konferencije, glavni tajnik saziva\nkonferenciju pod pokroviteljstvom Ujedinjenih naroda. Svaka izmjena ili\ndopuna koja se usvoji većinom glasova država stranaka koje sudjeluju na\nkonferenciji i koje glasuju, podnosi se Općoj skupštini Ujedinjenih\nnaroda na usvajanje.\n\n2\\. Izmjene ili dopune stupaju na snagu kad ih odobri Opća skupština\nUjedinjenih naroda i kad ih prihvate dvije trećine država stranaka ovoga\nPakta u skladu s njihovim ustavnim pravilima.\n\n3\\. Nakon što izmjene ili dopune stupe na snagu, one postaju obvezne za\ndržave stranke koje su ih prihvatile, dok su druge države stranke i\nnadalje obvezane odredbama ovoga Pakta i svakom ranije prihvaćenom\nizmjenom ili dopunom.",
+      "sentences": [
+        "i tekst dostaviti glavnom tajniku Ujedinjenih naroda.",
+        "Nakon toga glavni\ntajnik Ujedinjenih naroda državama strankama ovoga Pakta dostavlja sve\nprijedloge izmjena ili dopuna, uz zahtjev da se izjasne jesu li za\nsazivanje konferencije država stranaka u svrhu razmatranja i glasovanja\no tim prijedlozima.",
+        "Ako se najmanje jedna trećina država stranaka\nizjasni u prilog sazivanju konferencije, glavni tajnik saziva\nkonferenciju pod pokroviteljstvom Ujedinjenih naroda.",
+        "Svaka izmjena ili\ndopuna koja se usvoji većinom glasova država stranaka koje sudjeluju na\nkonferenciji i koje glasuju, podnosi se Općoj skupštini Ujedinjenih\nnaroda na usvajanje.\n\n2\\.",
+        "Izmjene ili dopune stupaju na snagu kad ih odobri Opća skupština\nUjedinjenih naroda i kad ih prihvate dvije trećine država stranaka ovoga\nPakta u skladu s njihovim ustavnim pravilima.\n\n3\\.",
+        "Nakon što izmjene ili dopune stupe na snagu, one postaju obvezne za\ndržave stranke koje su ih prihvatile, dok su druge države stranke i\nnadalje obvezane odredbama ovoga Pakta i svakom ranije prihvaćenom\nizmjenom ili dopunom."
+      ],
+      "hash": "3ebcc57720dae7939a602819a4bd4a02d1935b53fc0bc3a261d28946d638b2e5",
+      "tokens_approx": 156,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-icescr-hr-cl-30",
+      "number": "30",
+      "heading": "Neovisno o priopćenjima prema članku 26., stavku 5., glavni tajnik",
+      "text": "Ujedinjenih naroda obavještava sve države spomenute u stavku 1. istoga\nčlanka o sljedećim pojedinostima:\n\na\\) potpisima, ratifikacijama i pristupima prema članku 26.;\n\nb\\) datumu stupanja na snagu ovoga Pakta prema članku 27. i datumu\nstupanja na snagu svake izmjene ili dopune prema članku 29.\n\n9",
+      "sentences": [
+        "Ujedinjenih naroda obavještava sve države spomenute u stavku 1. istoga\nčlanka o sljedećim pojedinostima:\n\na\\) potpisima, ratifikacijama i pristupima prema članku 26.;\n\nb\\) datumu stupanja na snagu ovoga Pakta prema članku 27. i datumu\nstupanja na snagu svake izmjene ili dopune prema članku 29.\n\n9"
+      ],
+      "hash": "91414570b3cf341eb37f0376ce23bbd9595cff42a57d3483667d3d48b5df5ac1",
+      "tokens_approx": 45,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-icescr-hr-cl-31",
+      "number": "31",
+      "heading": "1\\. Ovaj Pakt kojega su kineski, engleski, francuski, ruski i španjolski",
+      "text": "tekst jednako vjerodostojni, bit će pohranjen u arhivu Ujedinjenih\nnaroda.\n\n2\\. Glavni tajnik Ujedinjenih naroda dostavit će ovjerene prijepise\novoga Pakta svim državama spomenutim u članku 26.\n\nPotvrđujući navedeno, doljepotpisani opunomoćenici, uredno ovlašteni od\nsvojih vlada, potpisali su ovaj Pakt, koji je otvoren za potpisivanje u\nNew Yorku devetnaestoga prosinca tisuću devet stotina šezdeset i šeste.\n\nPrevela: Vedrana Spajić-Vrkaš",
+      "sentences": [
+        "tekst jednako vjerodostojni, bit će pohranjen u arhivu Ujedinjenih\nnaroda.\n\n2\\.",
+        "Glavni tajnik Ujedinjenih naroda dostavit će ovjerene prijepise\novoga Pakta svim državama spomenutim u članku 26.",
+        "Potvrđujući navedeno, doljepotpisani opunomoćenici, uredno ovlašteni od\nsvojih vlada, potpisali su ovaj Pakt, koji je otvoren za potpisivanje u\nNew Yorku devetnaestoga prosinca tisuću devet stotina šezdeset i šeste.",
+        "Prevela: Vedrana Spajić-Vrkaš"
+      ],
+      "hash": "f7a7fa205a74339bed4dba11364e158b123a5b597d9a7e0f4b6b39a048414a52",
+      "tokens_approx": 59,
+      "refs": {},
+      "notes": null
+    }
+  ]
+}

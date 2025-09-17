@@ -1,0 +1,875 @@
+{
+  "meta": {
+    "doc_id": "un-iccpr-hr",
+    "schema_version": "1.1",
+    "title": "Međunarodni pakt o građanskim i političkim pravima (ICCPR)",
+    "short_title": "Međunarodni pakt o građanskim i političkim pravima (ICCPR)",
+    "language": "hr",
+    "jurisdiction": "UN",
+    "type": "international_instrument",
+    "source": {
+      "filename": "medjunarodni_pakt_o_gradjanskim_pravima_txt.md"
+    },
+    "version": null,
+    "created_at": "2025-09-13T17:06:07Z",
+    "tokenizer": "hr_HR_basic",
+    "structure": {
+      "parts": [
+        {
+          "label": "Dio",
+          "number": "I",
+          "title": "Članak 1."
+        },
+        {
+          "label": "Dio",
+          "number": "II",
+          "title": "Članak 2."
+        },
+        {
+          "label": "Dio",
+          "number": "III",
+          "title": "Članak 6."
+        },
+        {
+          "label": "Dio",
+          "number": "IV",
+          "title": "Članak 28."
+        },
+        {
+          "label": "Dio",
+          "number": "V",
+          "title": "Članak 46."
+        },
+        {
+          "label": "Dio",
+          "number": "VI",
+          "title": "Članak 48."
+        }
+      ]
+    }
+  },
+  "articles": [
+    {
+      "id": "un-iccpr-hr-cl-1",
+      "number": "1",
+      "heading": "1\\. Svi narodi imaju pravo na samoodređenje. Na temelju toga prava oni",
+      "text": "slobodno određuju svoj politički status i osiguravaju svoj gospodarski,\ndruštveni i kulturni razvoj.\n\n2\\. Svi narodi mogu slobodno raspolagati svojim prirodnim bogatstvima i\nizvorima za svoje osobne ciljeve bez ugrožavanja obveza koje proizlaze\niz međunarodne\n\n\\* Republika Hrvatska stranka je Međunarodnog pakta o građanskim i\npolitičkim pravima od 6.\n\nlistopada 1991. godine prema Odluci o objavljivanju mnogostranih\nmeđunarodnih ugovora kojih je Republika Hrvatska stranka na temelju\nnotifikacija o sukcesiji. Tu odluku donijela je Vlada Republike Hrvatske\n30. rujna 1993. godine (Narodne novine - Međunarodni ugovori, br.\n12/1993.) Prema odredbi II. te Odluke, \"Tekstovi mnogostranih\nmeđunarodnih ugovora iz točke I. ove Odluke, objavljeni u službenim\nglasilima država sljednica, važe i primjenjuju se kao službeni tekstovi\ndo objave službenih tekstova tih međunarodnih ugovora na hrvatskom\njeziku u Narodnim novinama - Međunarodni ugovori.\"\n\nSlužbeni tekst Međunarodnog pakta o građanskim i političkim pravima\nobjavljen je u Službenom listu SFRJ, br. 7/1971., i još uvijek je jedini\nslužbeni prijevod.\n\n1  \n\ngospodarske suradnje temeljene na načelu uzajamne koristi i međunarodnog\nprava. Ni u kojem slučaju se neki narod ne smije lišiti sredstava za\nsvoj opstanak.\n\n3\\. Države stranke ovoga Pakta, uključujući i one koje su odgovorne za\nupravu nad nesamoupravnim područjima i područjima koja se nalaze pod\nnjihovim starateljstvom, dužne su promicati ostvarenje prava na\nsamoodređenje i poštivati to pravo u skladu s odredbama Povelje\nUjedinjenih naroda.\n\nDIO II.",
+      "sentences": [
+        "slobodno određuju svoj politički status i osiguravaju svoj gospodarski,\ndruštveni i kulturni razvoj.\n\n2\\.",
+        "Svi narodi mogu slobodno raspolagati svojim prirodnim bogatstvima i\nizvorima za svoje osobne ciljeve bez ugrožavanja obveza koje proizlaze\niz međunarodne\n\n\\* Republika Hrvatska stranka je Međunarodnog pakta o građanskim i\npolitičkim pravima od 6.\n\nlistopada 1991. godine prema Odluci o objavljivanju mnogostranih\nmeđunarodnih ugovora kojih je Republika Hrvatska stranka na temelju\nnotifikacija o sukcesiji.",
+        "Tu odluku donijela je Vlada Republike Hrvatske\n30. rujna 1993. godine (Narodne novine - Međunarodni ugovori, br.\n12/1993.) Prema odredbi II. te Odluke, \"Tekstovi mnogostranih\nmeđunarodnih ugovora iz točke I. ove Odluke, objavljeni u službenim\nglasilima država sljednica, važe i primjenjuju se kao službeni tekstovi\ndo objave službenih tekstova tih međunarodnih ugovora na hrvatskom\njeziku u Narodnim novinama - Međunarodni ugovori.\"\n\nSlužbeni tekst Međunarodnog pakta o građanskim i političkim pravima\nobjavljen je u Službenom listu SFRJ, br. 7/1971., i još uvijek je jedini\nslužbeni prijevod.\n\n1  \n\ngospodarske suradnje temeljene na načelu uzajamne koristi i međunarodnog\nprava.",
+        "Ni u kojem slučaju se neki narod ne smije lišiti sredstava za\nsvoj opstanak.\n\n3\\.",
+        "Države stranke ovoga Pakta, uključujući i one koje su odgovorne za\nupravu nad nesamoupravnim područjima i područjima koja se nalaze pod\nnjihovim starateljstvom, dužne su promicati ostvarenje prava na\nsamoodređenje i poštivati to pravo u skladu s odredbama Povelje\nUjedinjenih naroda.",
+        "DIO II."
+      ],
+      "hash": "7ebd944774719d5ab490b64d60de30443cc603cb9a4a50f70871ef254ca1b12c",
+      "tokens_approx": 223,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-2",
+      "number": "2",
+      "heading": "1\\. Svaka država stranka ovoga Pakta se obvezuje da će poštivati i",
+      "text": "jamčiti prava priznata u ovome Paktu svim osobama na svom području i\npodručjima koja se nalaze pod njenom jurisdikcijom bez obzira na\nrazlike, kao što su rasa, boja kože, spol, jezik, vjera, političko ili\ndrugo uvjerenje, nacionalno ili socijalno podrijetlo, imovina, rođenje\nili neka druga okolnost.\n\n2\\. Tamo gdje to još nije uređeno postojećim zakonima ili drugim\nmjerama, svaka država stranka ovoga Pakta se obvezuje da će, u skladu sa\nsvojim ustavnim postupkom i odredbama ovoga Pakta, poduzeti potrebne\nkorake kako bi se usvojile zakonske i druge mjere prijeko potrebne za\nostvarivanje prava priznatih u ovom Paktu.\n\n3\\. Svaka država stranka ovoga Pakta se obvezuje da će:\n\na\\) osigurati da svaka osoba kojoj su ovdje priznata prava i slobode\npovrijeđeni, raspolaže djelotvornim pravnim lijekom, čak i kad povredu\npočine osobe koje djeluju u službenom svojstvu;\n\nb\\) osigurati da žalbu svake osobe ispita odgovarajuće sudsko, upravno,\nzakonodavno ili koje drugo tijelo koje je za to nadležno prema pravnom\nsustavu države, te unaprjeđivati mogućnosti sudskog pravnog lijeka;\n\nc\\) osigurati provođenje pravnog lijeka od strane nadležnih tijela ako\nse pokaže da je žalba opravdana.",
+      "sentences": [
+        "jamčiti prava priznata u ovome Paktu svim osobama na svom području i\npodručjima koja se nalaze pod njenom jurisdikcijom bez obzira na\nrazlike, kao što su rasa, boja kože, spol, jezik, vjera, političko ili\ndrugo uvjerenje, nacionalno ili socijalno podrijetlo, imovina, rođenje\nili neka druga okolnost.\n\n2\\.",
+        "Tamo gdje to još nije uređeno postojećim zakonima ili drugim\nmjerama, svaka država stranka ovoga Pakta se obvezuje da će, u skladu sa\nsvojim ustavnim postupkom i odredbama ovoga Pakta, poduzeti potrebne\nkorake kako bi se usvojile zakonske i druge mjere prijeko potrebne za\nostvarivanje prava priznatih u ovom Paktu.\n\n3\\.",
+        "Svaka država stranka ovoga Pakta se obvezuje da će:\n\na\\) osigurati da svaka osoba kojoj su ovdje priznata prava i slobode\npovrijeđeni, raspolaže djelotvornim pravnim lijekom, čak i kad povredu\npočine osobe koje djeluju u službenom svojstvu;\n\nb\\) osigurati da žalbu svake osobe ispita odgovarajuće sudsko, upravno,\nzakonodavno ili koje drugo tijelo koje je za to nadležno prema pravnom\nsustavu države, te unaprjeđivati mogućnosti sudskog pravnog lijeka;\n\nc\\) osigurati provođenje pravnog lijeka od strane nadležnih tijela ako\nse pokaže da je žalba opravdana."
+      ],
+      "hash": "a64a3d0ded111708205272195baa40b0a3c70037c3e62cec3cac82c5ed75cd22",
+      "tokens_approx": 181,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-3",
+      "number": "3",
+      "heading": "Države stranke ovoga Pakta se obvezuju da će muškarcima i ženama",
+      "text": "osigurati jednako pravo na uživanje svih građanskih i političkih prava\nutvrđenih u ovom Paktu.",
+      "sentences": [
+        "osigurati jednako pravo na uživanje svih građanskih i političkih prava\nutvrđenih u ovom Paktu."
+      ],
+      "hash": "3b65c754d0d30187307e8cc2aba1bc5cbdbe3247f98475699972b5b297fedb3d",
+      "tokens_approx": 14,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-4",
+      "number": "4",
+      "heading": "1\\. U vrijeme izvanrednog stanja u kojemu je ugrožen opstanak naroda i",
+      "text": "koje je službeno proglašeno, države stranke ovoga Pakta mogu, u opsegu\nkoji je strogo određen tim izvanrednim prilikama, poduzeti mjere koje\nderogiraju njihove obveze iz ovoga Pakta, uz uvjet da te mjere nisu\nnespojive s njihovim ostalim obvezama po međunarodnom pravu i da ne\npovlače za sobom diskriminaciju temeljenu na rasi, boji kože, spolu,\njeziku, vjeri ili socijalnom podrijetlu.\n\n2  \n\n2\\. Na temelju te odredbe ne mogu se derogirati članaci 6., 7., 8.\n(stavci 1. i 2.), 11., 15., 16. i 18.\n\n3\\. Svaka država stranka ovoga Pakta koja se posluži pravom derogiranja,\nmora posredstvom glavnog tajnika Ujedinjenih naroda odmah obavijestiti\nostale države stranke ovoga Pakta o odredbama koje je derogirala i\nrazlozima zbog kojih je to učinila. Ona će također istim putem\nobavijestiti o datumu prestanka važenja tih mjera.",
+      "sentences": [
+        "koje je službeno proglašeno, države stranke ovoga Pakta mogu, u opsegu\nkoji je strogo određen tim izvanrednim prilikama, poduzeti mjere koje\nderogiraju njihove obveze iz ovoga Pakta, uz uvjet da te mjere nisu\nnespojive s njihovim ostalim obvezama po međunarodnom pravu i da ne\npovlače za sobom diskriminaciju temeljenu na rasi, boji kože, spolu,\njeziku, vjeri ili socijalnom podrijetlu.\n\n2  \n\n2\\.",
+        "Na temelju te odredbe ne mogu se derogirati članaci 6., 7., 8.\n(stavci 1. i 2.), 11., 15., 16. i 18.\n\n3\\.",
+        "Svaka država stranka ovoga Pakta koja se posluži pravom derogiranja,\nmora posredstvom glavnog tajnika Ujedinjenih naroda odmah obavijestiti\nostale države stranke ovoga Pakta o odredbama koje je derogirala i\nrazlozima zbog kojih je to učinila.",
+        "Ona će također istim putem\nobavijestiti o datumu prestanka važenja tih mjera."
+      ],
+      "hash": "4709511f4dfcb7b60073012ec2177a2722718f37458b9ce840d4e12395afc9b7",
+      "tokens_approx": 130,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-5",
+      "number": "5",
+      "heading": "1\\. Ništa se u ovom Paktu ne smije tumačiti tako da podrazumijeva pravo",
+      "text": "neke države, grupe ili pojedinca da poduzmu bilo koju akciju ili izvrše\nbilo koji čin kojim se poništava neko od ovdje utvrđenih prava i\nsloboda, ili ograničava u većoj mjeri nego što je to Paktom predviđeno.\n\n2\\. Nije dopušteno nikakvo ograničavanje ili derogiranje temeljnih\nljudskih prava koja su priznata ili koja prema zakonu, konvenciji,\npropisima ili običaju postoje u nekoj državi stranci ovoga Pakta, pod\nizgovorom da ovaj Pakt ne priznaje takva prava ili da ih priznaje u\nmanjem opsegu.\n\nDIO III.",
+      "sentences": [
+        "neke države, grupe ili pojedinca da poduzmu bilo koju akciju ili izvrše\nbilo koji čin kojim se poništava neko od ovdje utvrđenih prava i\nsloboda, ili ograničava u većoj mjeri nego što je to Paktom predviđeno.\n\n2\\.",
+        "Nije dopušteno nikakvo ograničavanje ili derogiranje temeljnih\nljudskih prava koja su priznata ili koja prema zakonu, konvenciji,\npropisima ili običaju postoje u nekoj državi stranci ovoga Pakta, pod\nizgovorom da ovaj Pakt ne priznaje takva prava ili da ih priznaje u\nmanjem opsegu.",
+        "DIO III."
+      ],
+      "hash": "48a309e74cbc25e1f74623d73a43024a8568ccb117e4eeb3281ac924d84dc889",
+      "tokens_approx": 82,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-6",
+      "number": "6",
+      "heading": "1\\. Svako ljudsko biće ima prirodno pravo na život. To pravo treba",
+      "text": "zaštititi zakonom. Nitko ne smije biti samovoljno lišen života.\n\n2\\. U državama u kojima nije ukinuta smrtna kazna, smrtna presuda se\nmože izreći samo za najteže zločine, u skladu sa zakonom koji je bio na\nsnazi u vrijeme izvršenja zločina, a koji nije suprotan odredbama ovoga\nPakta i Konvencije o sprječavanju i kažnjavanju zločina genocida. Ta se\nkazna može primijeniti samo po konačnoj presudi nadležnog suda.\n\n3\\. Ako oduzimanje života predstavlja zločin genocida, razumije se da\nništa u ovome članku ne ovlašćuje državu stranku ovoga Pakta da i na\nkoji način otkaže ma koju obvezu preuzetu prema odredbama Konvencije o\nsprječavanju i kažnjavanju zločina genocida.\n\n4\\. Svatko tko je osuđen na smrt ima pravo tražiti pomilovanje ili\nzamjenu kazne. Amnestija, pomilovanje ili zamjena smrtne kazne može se\nodobriti u svim slučajevima.\n\n5\\. Smrtna presuda ne smije se izreći za zločine koje su počinile osobe\nmlađe od osamnaest godina, niti se ona smije izvršiti nad trudnim\nženama.\n\n6\\. Ni na što se u ovome članku niti jedna država stranka ovoga Pakta ne\nsmije pozvati kako bi odgodila ili spriječila ukidanje smrtne kazne.",
+      "sentences": [
+        "zaštititi zakonom.",
+        "Nitko ne smije biti samovoljno lišen života.\n\n2\\.",
+        "U državama u kojima nije ukinuta smrtna kazna, smrtna presuda se\nmože izreći samo za najteže zločine, u skladu sa zakonom koji je bio na\nsnazi u vrijeme izvršenja zločina, a koji nije suprotan odredbama ovoga\nPakta i Konvencije o sprječavanju i kažnjavanju zločina genocida.",
+        "Ta se\nkazna može primijeniti samo po konačnoj presudi nadležnog suda.\n\n3\\.",
+        "Ako oduzimanje života predstavlja zločin genocida, razumije se da\nništa u ovome članku ne ovlašćuje državu stranku ovoga Pakta da i na\nkoji način otkaže ma koju obvezu preuzetu prema odredbama Konvencije o\nsprječavanju i kažnjavanju zločina genocida.\n\n4\\.",
+        "Svatko tko je osuđen na smrt ima pravo tražiti pomilovanje ili\nzamjenu kazne.",
+        "Amnestija, pomilovanje ili zamjena smrtne kazne može se\nodobriti u svim slučajevima.\n\n5\\.",
+        "Smrtna presuda ne smije se izreći za zločine koje su počinile osobe\nmlađe od osamnaest godina, niti se ona smije izvršiti nad trudnim\nženama.\n\n6\\.",
+        "Ni na što se u ovome članku niti jedna država stranka ovoga Pakta ne\nsmije pozvati kako bi odgodila ili spriječila ukidanje smrtne kazne."
+      ],
+      "hash": "2c4b775fb2dc71bc7668789d12129bb4a18802a37c195607287d813effbc7e09",
+      "tokens_approx": 181,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-7",
+      "number": "7",
+      "heading": "3",
+      "text": "Nitko ne smije biti podvrgnut mučenju ili okrutnom, nečovječnom ili\nponižavajućem postupku ili kazni. Osobito je zabranjeno podvrgnuti osobu\nmedicinskom ili znanstvenom pokusu bez njena slobodnog pristanka.",
+      "sentences": [
+        "Nitko ne smije biti podvrgnut mučenju ili okrutnom, nečovječnom ili\nponižavajućem postupku ili kazni.",
+        "Osobito je zabranjeno podvrgnuti osobu\nmedicinskom ili znanstvenom pokusu bez njena slobodnog pristanka."
+      ],
+      "hash": "ec4bc4075cd522e68184dd03b0cf1477cd18c537c227bfa272b19e78b9ae7126",
+      "tokens_approx": 27,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-8",
+      "number": "8",
+      "heading": "1\\. Nitko se ne smije držati u ropstvu; ropstvo i trgovina robljem",
+      "text": "zabranjuju se u svim njihovim oblicima.\n\n2\\. Nitko se ne smije držati u odnosu sličnom ropstvu.\n\n3\\. a) Nitko se ne smije siliti na prisilan ili obvezatan rad.\n\nb\\) Alineja a) ove točke ne smije se tumačiti kao zabrana izdržavanja\nkazne prisilnog rada koju je izrekao nadležni sud u zemljama u kojima je\nza neke zločine moguće izreći kaznu zatvora s prisilnim radom.\n\nc\\) U svrhu tumačenja ovoga stavka, izraz \"prisilni ili obvezatni rad\"\nne obuhvaća: i) svaki rad ili službu koji nisu obuhvaćeni točkom b), a\nkoji se redovito zahtijevaju od osobe na izdržavanju kazne zatvora prema\nzakonom određenoj sudskoj odluci, ili osobe uvjetno puštene na slobodu;\n\nii\\) svaku vojnu službu ili, u zemljama u kojima je dopušteno odbijanje\nvojne službe zbog prigovora savjesti, bilo koju drugu službu koju zakon\npredviđa u takvom slučaju;\n\niii\\) svaku službu koja se zahtijeva u slučaju nepogode ili nesreće koja\nugrožava život ili blagostanje zajednice;\n\niv\\) svaki rad ili službu koji su dio uobičajenih građanskih obveza.",
+      "sentences": [
+        "zabranjuju se u svim njihovim oblicima.\n\n2\\.",
+        "Nitko se ne smije držati u odnosu sličnom ropstvu.\n\n3\\. a) Nitko se ne smije siliti na prisilan ili obvezatan rad.\n\nb\\) Alineja a) ove točke ne smije se tumačiti kao zabrana izdržavanja\nkazne prisilnog rada koju je izrekao nadležni sud u zemljama u kojima je\nza neke zločine moguće izreći kaznu zatvora s prisilnim radom.\n\nc\\) U svrhu tumačenja ovoga stavka, izraz \"prisilni ili obvezatni rad\"\nne obuhvaća: i) svaki rad ili službu koji nisu obuhvaćeni točkom b), a\nkoji se redovito zahtijevaju od osobe na izdržavanju kazne zatvora prema\nzakonom određenoj sudskoj odluci, ili osobe uvjetno puštene na slobodu;\n\nii\\) svaku vojnu službu ili, u zemljama u kojima je dopušteno odbijanje\nvojne službe zbog prigovora savjesti, bilo koju drugu službu koju zakon\npredviđa u takvom slučaju;\n\niii\\) svaku službu koja se zahtijeva u slučaju nepogode ili nesreće koja\nugrožava život ili blagostanje zajednice;\n\niv\\) svaki rad ili službu koji su dio uobičajenih građanskih obveza."
+      ],
+      "hash": "d1cec3c978e4cb3bfc3ab84189736d24b3934890ec311af7c430028d0853e97d",
+      "tokens_approx": 163,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-9",
+      "number": "9",
+      "heading": "1\\. Svatko ima pravo na slobodu i osobnu sigurnost. Nitko ne smije biti",
+      "text": "samovoljno uhićen ili pritvoren. Nitko ne smije biti lišen slobode osim\nna temelju i u skladu s postupkom koji je propisan zakonom.\n\n2\\. Svatko tko je uhićen mora u času uhićenja biti obaviješten o\nrazlozima toga uhićenja i, u najkraćem roku, o svakoj optužbi protiv\nsebe.\n\n3\\. Svatko tko je uhićen ili pritvoren zbog kaznenog djela, mora se u\nnajkraćem roku izvesti pred suca ili neko drugo zakonom određeno tijelo\nsudbene vlasti, i ima pravo biti u razumnom roku suđen ili oslobođen.\nOpće pravilo ne smije biti da se osobe koje čekaju na suđenje moraju\ndržati u pritvoru, no puštanje na slobodu može se uvjetovati davanjem\njamstva da će osoba pristupiti suđenju, biti dostupna tijekom sudskog\npostupka i da će se po potrebi prijaviti radi izvršenja presude.\n\n4\\. Svatko tko je lišen slobode uhićenjem ili pritvorom, ima pravo\npodnijeti žalbu sudu kako bi sud bez odlaganja donio odluku o\nzakonitosti njegova pritvora i odredio puštanje na slobodu ako je\npritvor bio nezakonit.\n\n5\\. Svatko tko je bio žrtva nezakonitog uhićenja ili pritvora, mora\nimati izvršivo pravo na odštetu.\n\n4",
+      "sentences": [
+        "samovoljno uhićen ili pritvoren.",
+        "Nitko ne smije biti lišen slobode osim\nna temelju i u skladu s postupkom koji je propisan zakonom.\n\n2\\.",
+        "Svatko tko je uhićen mora u času uhićenja biti obaviješten o\nrazlozima toga uhićenja i, u najkraćem roku, o svakoj optužbi protiv\nsebe.\n\n3\\.",
+        "Svatko tko je uhićen ili pritvoren zbog kaznenog djela, mora se u\nnajkraćem roku izvesti pred suca ili neko drugo zakonom određeno tijelo\nsudbene vlasti, i ima pravo biti u razumnom roku suđen ili oslobođen.",
+        "Opće pravilo ne smije biti da se osobe koje čekaju na suđenje moraju\ndržati u pritvoru, no puštanje na slobodu može se uvjetovati davanjem\njamstva da će osoba pristupiti suđenju, biti dostupna tijekom sudskog\npostupka i da će se po potrebi prijaviti radi izvršenja presude.\n\n4\\.",
+        "Svatko tko je lišen slobode uhićenjem ili pritvorom, ima pravo\npodnijeti žalbu sudu kako bi sud bez odlaganja donio odluku o\nzakonitosti njegova pritvora i odredio puštanje na slobodu ako je\npritvor bio nezakonit.\n\n5\\.",
+        "Svatko tko je bio žrtva nezakonitog uhićenja ili pritvora, mora\nimati izvršivo pravo na odštetu.\n\n4"
+      ],
+      "hash": "ba228c3465f65997caffecb1da89e7507376a96905a540450bb1bbf8c94274f3",
+      "tokens_approx": 179,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-10",
+      "number": "10",
+      "heading": "1\\. Sa svima koji su lišeni slobode mora se postupati čovječno i s",
+      "text": "poštivanjem prirodnog dostojanstva ljudske osobe.\n\n2\\. a) Okrivljeni moraju, osim u izuzetnim prilikama, biti odvojeni od\nosuđenih i podvrgnuti posebnom postupku, u skladu s njihovim statusom\nneosuđenih osoba;\n\nb\\) Maloljetni okrivljenici moraju biti odvojeni od odraslih, a njihovi\nse slučajevi moraju rješavati što je brže moguće.\n\n3\\. Kazneni sustav mora uključivati postupke prema zatvorenicima kojima\nje glavni cilj promjena njihova ponašanja i njihova društvena\nrehabilitacija. Maloljetni prijestupnici moraju biti odvojeni od\nodraslih i s njima se mora postupati u skladu s njihovom dobi i pravnim\nstatusom.",
+      "sentences": [
+        "poštivanjem prirodnog dostojanstva ljudske osobe.\n\n2\\. a) Okrivljeni moraju, osim u izuzetnim prilikama, biti odvojeni od\nosuđenih i podvrgnuti posebnom postupku, u skladu s njihovim statusom\nneosuđenih osoba;\n\nb\\) Maloljetni okrivljenici moraju biti odvojeni od odraslih, a njihovi\nse slučajevi moraju rješavati što je brže moguće.\n\n3\\.",
+        "Kazneni sustav mora uključivati postupke prema zatvorenicima kojima\nje glavni cilj promjena njihova ponašanja i njihova društvena\nrehabilitacija.",
+        "Maloljetni prijestupnici moraju biti odvojeni od\nodraslih i s njima se mora postupati u skladu s njihovom dobi i pravnim\nstatusom."
+      ],
+      "hash": "6670fecbb4bfba92cb2fdefc947775e9d4a945a0fcaeb16c317e4d6eaadbb615",
+      "tokens_approx": 86,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-11",
+      "number": "11",
+      "heading": "Nitko ne smije biti zatvoren samo zato što ne može ispuniti neku",
+      "text": "ugovornu obvezu.",
+      "sentences": [
+        "ugovornu obvezu."
+      ],
+      "hash": "657f13773e97f60b3b2b49d2116cafe8790504a1c64d09fad4e2ca987bb3ee2f",
+      "tokens_approx": 2,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-12",
+      "number": "12",
+      "heading": "1\\. Svi koji se zakonito nalaze na području neke države imaju se pravo",
+      "text": "slobodno kretati i odabrati svoje boravište.\n\n2\\. Svatko je slobodan napustiti bilo koju zemlju, uključujući vlastitu.\n\n3\\. Gore spomenuta prava ne smiju se ograničavati, osim kad su takva\nograničenja predviđena zakonom, kad su ona potrebna radi zaštite državne\nsigurnosti, javnog reda (ordre public), zdravlja ili morala, ili prava i\nsloboda drugih, i ako su u skladu s ostalim pravima priznatim ovim\nPaktom.\n\n4\\. Nitko ne smije biti samovoljno lišen prava ulaska u svoju zemlju.",
+      "sentences": [
+        "slobodno kretati i odabrati svoje boravište.\n\n2\\.",
+        "Svatko je slobodan napustiti bilo koju zemlju, uključujući vlastitu.\n\n3\\.",
+        "Gore spomenuta prava ne smiju se ograničavati, osim kad su takva\nograničenja predviđena zakonom, kad su ona potrebna radi zaštite državne\nsigurnosti, javnog reda (ordre public), zdravlja ili morala, ili prava i\nsloboda drugih, i ako su u skladu s ostalim pravima priznatim ovim\nPaktom.\n\n4\\.",
+        "Nitko ne smije biti samovoljno lišen prava ulaska u svoju zemlju."
+      ],
+      "hash": "5fd2f2bd8389f50cbf7968cda4895853b5c7fdf5e7e08127beedc1cd460f95e6",
+      "tokens_approx": 74,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-13",
+      "number": "13",
+      "heading": "Stranac koji zakonito boravi na području neke države stranke ovoga Pakta",
+      "text": "može biti protjeran iz te države samo na temelju izvršenja zakonski\ndonesene odluke, te mu se, ako drugačije ne zahtijevaju neizostavni\nrazlozi državne sigurnosti, mora dopustiti da iznese razloge protiv\nsvoga protjerivanja i osigurati da njegov slučaj ispita nadležno tijelo,\nosoba ili osobe koje nadležno tijelo posebno odredi u tu svrhu, i da u\ntom postupku ima zastupnika.",
+      "sentences": [
+        "može biti protjeran iz te države samo na temelju izvršenja zakonski\ndonesene odluke, te mu se, ako drugačije ne zahtijevaju neizostavni\nrazlozi državne sigurnosti, mora dopustiti da iznese razloge protiv\nsvoga protjerivanja i osigurati da njegov slučaj ispita nadležno tijelo,\nosoba ili osobe koje nadležno tijelo posebno odredi u tu svrhu, i da u\ntom postupku ima zastupnika."
+      ],
+      "hash": "7c96553547cbaebd01d4acfe27f9f8eef7ff2bf2b04195abc2787b4d844d7362",
+      "tokens_approx": 58,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-14",
+      "number": "14",
+      "heading": "1\\. Svi moraju biti jednaki pred sudom i sudovima pravde. U slučaju",
+      "text": "podizanja optužnice za kazneno djelo protiv njega ili utvrđivanja\nnjegovih prava i obveza građanske naravi, svatko ima pravo da zakonom\nustanovljeni nadležni, neovisni i nepristrani sud pravično i javno\nispita njegov slučaj. Sredstva priopćavanja i javnost se mogu isključiti\niz cijele rasprave ili nekog njenog dijela zbog, u demokratskom društvu\nprijeko potrebnih interesa morala, javnog reda (ordre public) ili\ndržavne sigurnosti, kad to traže interesi privatnog života stranaka, ili\nu opsegu koji je po mišljenju suda bezuvjetno potreban u posebnim\nokolnostima u kojima bi javnost\n\n5  \n\nmogla štetiti interesima pravde. No svaka presuda donesena u kaznenom\nili građanskom postupku mora se javno proglasiti, osim kad drugačije\nnalažu interesi maloljetnih osoba, ili se postupak odnosi na bračne\nsporove ili skrbništvo nad djetetom.\n\n2\\. Svatko tko je optužen za kazneno djelo ima pravo da ga se smatra\nnevinim sve dok mu se krivnja ne dokaže u skladu sa zakonom.\n\n3\\. Radi utvrđivanja opravdanosti podizanja bilo koje optužbe za kazneno\ndjelo protiv njega, svatko ima u punoj jednakosti pravo na najmanje\nsljedeća jamstva:\n\na\\) da u najkraćem roku, potanko i na jeziku koji razumije bude\nobaviješten o naravi i razlozima optužbe podignute protiv njega;\n\nb\\) da ima odgovarajuće vrijeme i uvjete za pripremu svoje obrane i za\nrazgovore s braniteljem kojega sam izabere;\n\nc\\) da mu se sudi bez prekomjernog odlaganja;\n\nd\\) da mu se sudi u njegovoj prisutnosti i da se brani sam ili uz pomoć\nslužbenog branitelja po svom osobnom izboru; da ga se, ako nema svoga\nbranitelja, uputi u pravo na njegov izbor i da mu se uvijek kad to\nnalažu interesi pravde po službenoj dužnosti dodijeli besplatni\nbranitelj, svaki put kad on nema dovoljno sredstava da plati branitelja;\n\ne\\) da ispituje ili dade ispitati svjedoke optužbe i da se osigura\nprisustvo i ispitivanje svjedoka obrane pod istim uvjetima kao i\nsvjedoka optužbe;\n\nf\\) da ima besplatnu pomoć tumača ako ne razumije ili ne govori jezik\nkoji se upotrebljava u sudu;\n\ng\\) da ga se ne prisiljava na svjedočenje protiv sebe ili na priznanje\nkrivnje.\n\n4\\. U slučaju maloljetnih osoba, postupak se mora voditi tako da se vodi\nračuna o njihovoj dobi i potrebama njihova preodgoja.\n\n5\\. Svatko tko je proglašen krivim za kazneno djelo ima pravo tražiti da\nodluku o njegovoj krivnji i kazni preispita viši sud u skladu sa\nzakonom.\n\n6\\. Ako je neka osoba na temelju konačne presude osuđena za kazneno\ndjelo, a presuda bude naknadno poništena, ili ona bude pomilovana na\ntemelju neke nove ili novootkrivene činjenice koja nedvojbeno dokazuje\nda joj je učinjena nepravda, osobi koja je izdržala kaznu po takvoj\npresudi mora se nadoknaditi šteta u skladu sa zakonom, osim ako se\ndokaže da se njoj ima potpuno ili djelomice pripisati nepravodobno\notkrivanje nepoznate činjenice.\n\n7\\. Nitko se ne smije ponovno progoniti ili kažnjavati za djelo za koje\nje bio konačno osuđen ili oslobođen u skladu sa zakonom i kaznenim\npostupkom bilo koje zemlje.",
+      "sentences": [
+        "podizanja optužnice za kazneno djelo protiv njega ili utvrđivanja\nnjegovih prava i obveza građanske naravi, svatko ima pravo da zakonom\nustanovljeni nadležni, neovisni i nepristrani sud pravično i javno\nispita njegov slučaj.",
+        "Sredstva priopćavanja i javnost se mogu isključiti\niz cijele rasprave ili nekog njenog dijela zbog, u demokratskom društvu\nprijeko potrebnih interesa morala, javnog reda (ordre public) ili\ndržavne sigurnosti, kad to traže interesi privatnog života stranaka, ili\nu opsegu koji je po mišljenju suda bezuvjetno potreban u posebnim\nokolnostima u kojima bi javnost\n\n5  \n\nmogla štetiti interesima pravde.",
+        "No svaka presuda donesena u kaznenom\nili građanskom postupku mora se javno proglasiti, osim kad drugačije\nnalažu interesi maloljetnih osoba, ili se postupak odnosi na bračne\nsporove ili skrbništvo nad djetetom.\n\n2\\.",
+        "Svatko tko je optužen za kazneno djelo ima pravo da ga se smatra\nnevinim sve dok mu se krivnja ne dokaže u skladu sa zakonom.\n\n3\\.",
+        "Radi utvrđivanja opravdanosti podizanja bilo koje optužbe za kazneno\ndjelo protiv njega, svatko ima u punoj jednakosti pravo na najmanje\nsljedeća jamstva:\n\na\\) da u najkraćem roku, potanko i na jeziku koji razumije bude\nobaviješten o naravi i razlozima optužbe podignute protiv njega;\n\nb\\) da ima odgovarajuće vrijeme i uvjete za pripremu svoje obrane i za\nrazgovore s braniteljem kojega sam izabere;\n\nc\\) da mu se sudi bez prekomjernog odlaganja;\n\nd\\) da mu se sudi u njegovoj prisutnosti i da se brani sam ili uz pomoć\nslužbenog branitelja po svom osobnom izboru; da ga se, ako nema svoga\nbranitelja, uputi u pravo na njegov izbor i da mu se uvijek kad to\nnalažu interesi pravde po službenoj dužnosti dodijeli besplatni\nbranitelj, svaki put kad on nema dovoljno sredstava da plati branitelja;\n\ne\\) da ispituje ili dade ispitati svjedoke optužbe i da se osigura\nprisustvo i ispitivanje svjedoka obrane pod istim uvjetima kao i\nsvjedoka optužbe;\n\nf\\) da ima besplatnu pomoć tumača ako ne razumije ili ne govori jezik\nkoji se upotrebljava u sudu;\n\ng\\) da ga se ne prisiljava na svjedočenje protiv sebe ili na priznanje\nkrivnje.\n\n4\\.",
+        "U slučaju maloljetnih osoba, postupak se mora voditi tako da se vodi\nračuna o njihovoj dobi i potrebama njihova preodgoja.\n\n5\\.",
+        "Svatko tko je proglašen krivim za kazneno djelo ima pravo tražiti da\nodluku o njegovoj krivnji i kazni preispita viši sud u skladu sa\nzakonom.\n\n6\\.",
+        "Ako je neka osoba na temelju konačne presude osuđena za kazneno\ndjelo, a presuda bude naknadno poništena, ili ona bude pomilovana na\ntemelju neke nove ili novootkrivene činjenice koja nedvojbeno dokazuje\nda joj je učinjena nepravda, osobi koja je izdržala kaznu po takvoj\npresudi mora se nadoknaditi šteta u skladu sa zakonom, osim ako se\ndokaže da se njoj ima potpuno ili djelomice pripisati nepravodobno\notkrivanje nepoznate činjenice.\n\n7\\.",
+        "Nitko se ne smije ponovno progoniti ili kažnjavati za djelo za koje\nje bio konačno osuđen ili oslobođen u skladu sa zakonom i kaznenim\npostupkom bilo koje zemlje."
+      ],
+      "hash": "5cb08c482eff2a255fafd33f9afde7feb0b228cd6a707eea8ed17992ea1a6331",
+      "tokens_approx": 480,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-15",
+      "number": "15",
+      "heading": "1\\. Nitko ne smije biti proglašen krivim za kazneno djelo počinjeno",
+      "text": "činom ili propustom koji, po domaćem ili međunarodnom pravu u času\npočinjenja nije bio predviđen kao kazneno djelo. Ne smije se odrediti ni\nteža kazna od one koja je bila primjenjiva u času kad je kazneno djelo\npočinjeno. Ako se nakon počinjenja kaznenog djela donese zakon kojim se\nodređuje blaža kazna, počinitelj smije koristi tu povlasticu.\n\n6  \n\n2\\. Ništa u ovom članku ne smije priječiti suđenje ili kažnjavanje bilo\nkoje osobe za neki čin ili propust koji je u času počinjenja\npredstavljao kazneno djelo prema općim načelima prava priznatim od\nzajednice naroda.",
+      "sentences": [
+        "činom ili propustom koji, po domaćem ili međunarodnom pravu u času\npočinjenja nije bio predviđen kao kazneno djelo.",
+        "Ne smije se odrediti ni\nteža kazna od one koja je bila primjenjiva u času kad je kazneno djelo\npočinjeno.",
+        "Ako se nakon počinjenja kaznenog djela donese zakon kojim se\nodređuje blaža kazna, počinitelj smije koristi tu povlasticu.\n\n6  \n\n2\\.",
+        "Ništa u ovom članku ne smije priječiti suđenje ili kažnjavanje bilo\nkoje osobe za neki čin ili propust koji je u času počinjenja\npredstavljao kazneno djelo prema općim načelima prava priznatim od\nzajednice naroda."
+      ],
+      "hash": "31038372efe7a9fad28cfa1876711d268a162c93c701aa35c7f070165cd6b5b9",
+      "tokens_approx": 92,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-16",
+      "number": "16",
+      "heading": "Svatko ima pravo da ga se svugdje pred zakonom priznaje kao osobu.",
+      "text": "",
+      "sentences": [],
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "tokens_approx": 0,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-17",
+      "number": "17",
+      "heading": "1\\. Nitko ne smije biti podvrgnut samovoljnom ili nezakonitom miješanju",
+      "text": "u njegov privatni život, obitelj ili dopisivanje, niti nezakonitim\nnapadima na njegovu čast ili ugled.\n\n2\\. Svatko ima pravo na pravnu zaštitu protiv takvog miješanja ili\nnapada.",
+      "sentences": [
+        "u njegov privatni život, obitelj ili dopisivanje, niti nezakonitim\nnapadima na njegovu čast ili ugled.\n\n2\\.",
+        "Svatko ima pravo na pravnu zaštitu protiv takvog miješanja ili\nnapada."
+      ],
+      "hash": "446a50a48123e994ddaef64d82450695d4aa998101ef29376e7ce88fd9326d34",
+      "tokens_approx": 27,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-18",
+      "number": "18",
+      "heading": "l\\. Svatko ima pravo na slobodu misli, savjesti i vjere. To pravo",
+      "text": "uključuje slobodu očuvanja ili prihvaćanja neke vjere ili uvjerenja po\nsvom osobnom izboru, kao i slobodu da se pojedinačno ili u zajednici s\ndrugima, javno ili privatno, iskazuje svoju vjeru ili uvjerenje\nbogoslužjem, obredima, praktičnim vršenjem i poučavanjem.\n\n2\\. Nitko ne smije biti podvrgnut prinudi kojom bi se ugrozila njegova\nsloboda da vjeruje ili prihvati vjeru ili uvjerenje po svom osobnom\nizboru.\n\n3\\. Sloboda iskazivanja vjere ili uvjerenja može se podvrgnuti samo\ntakvim ograničenjima koja su propisana zakonom i koja su prijeko\npotrebna radi zaštite javne sigurnosti, reda, zdravlja ili morala, ili\ntemeljnih prava i sloboda drugih.\n\n4\\. Države stranke ovoga Pakta se obvezuju da će poštivati slobodu\nroditelja i, gdje postoji takav slučaj, zakonskih skrbnika da svojoj\ndjeci osiguraju vjerski i moralni odgoj u skladu sa svojim osobnim\nuvjerenjima.",
+      "sentences": [
+        "uključuje slobodu očuvanja ili prihvaćanja neke vjere ili uvjerenja po\nsvom osobnom izboru, kao i slobodu da se pojedinačno ili u zajednici s\ndrugima, javno ili privatno, iskazuje svoju vjeru ili uvjerenje\nbogoslužjem, obredima, praktičnim vršenjem i poučavanjem.\n\n2\\.",
+        "Nitko ne smije biti podvrgnut prinudi kojom bi se ugrozila njegova\nsloboda da vjeruje ili prihvati vjeru ili uvjerenje po svom osobnom\nizboru.\n\n3\\.",
+        "Sloboda iskazivanja vjere ili uvjerenja može se podvrgnuti samo\ntakvim ograničenjima koja su propisana zakonom i koja su prijeko\npotrebna radi zaštite javne sigurnosti, reda, zdravlja ili morala, ili\ntemeljnih prava i sloboda drugih.\n\n4\\.",
+        "Države stranke ovoga Pakta se obvezuju da će poštivati slobodu\nroditelja i, gdje postoji takav slučaj, zakonskih skrbnika da svojoj\ndjeci osiguraju vjerski i moralni odgoj u skladu sa svojim osobnim\nuvjerenjima."
+      ],
+      "hash": "d49fccb99fe2ccf75e21e2978aaee1f5a083554143915bad5c92f7a230e5d102",
+      "tokens_approx": 130,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-19",
+      "number": "19",
+      "heading": "1\\. Svatko ima pravo zadržati svoja uvjerenja bez miješanja sa strane.",
+      "text": "2\\. Svatko ima pravo na slobodu izražavanja. To pravo obuhvaća slobodu\ntraženja, primanja i širenja informacija i ideja svake vrste, usmeno,\npismeno, tiskom ili umjetničkim oblikom, ili kojim drugim sredstvom\nprema svom osobnom izboru i bez obzira na granice.\n\n3\\. Ostvarenje prava predviđenih stavkom 2. ovoga članka nosi sa sobom\nposebne dužnosti i odgovornosti. Stoga se ono može podvrgnuti određenim\nograničenjima, ali samo takvima koja su predviđena zakonom i koja su\nprijeko potrebna radi:\n\na\\) poštivanja prava i ugleda drugih;\n\nb\\) zaštite državne sigurnosti, javnog reda (ordre public), zdravlja ili\nmorala.",
+      "sentences": [
+        "2\\.",
+        "Svatko ima pravo na slobodu izražavanja.",
+        "To pravo obuhvaća slobodu\ntraženja, primanja i širenja informacija i ideja svake vrste, usmeno,\npismeno, tiskom ili umjetničkim oblikom, ili kojim drugim sredstvom\nprema svom osobnom izboru i bez obzira na granice.\n\n3\\.",
+        "Ostvarenje prava predviđenih stavkom 2. ovoga članka nosi sa sobom\nposebne dužnosti i odgovornosti.",
+        "Stoga se ono može podvrgnuti određenim\nograničenjima, ali samo takvima koja su predviđena zakonom i koja su\nprijeko potrebna radi:\n\na\\) poštivanja prava i ugleda drugih;\n\nb\\) zaštite državne sigurnosti, javnog reda (ordre public), zdravlja ili\nmorala."
+      ],
+      "hash": "e81a6299cddeaf12c3405b2e18bd71164e29237c1aad8d0c961dc2fa8becdee0",
+      "tokens_approx": 91,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-20",
+      "number": "20",
+      "heading": "7",
+      "text": "1\\. Svako poticanje na rat mora se zakonom zabraniti.\n\n2\\. Svako pozivanje na nacionalnu, rasnu ili vjersku mržnju koja potiče\ndiskriminaciju, neprijateljstvo ili nasilje, mora se zakonom zabraniti.",
+      "sentences": [
+        "1\\.",
+        "Svako poticanje na rat mora se zakonom zabraniti.\n\n2\\.",
+        "Svako pozivanje na nacionalnu, rasnu ili vjersku mržnju koja potiče\ndiskriminaciju, neprijateljstvo ili nasilje, mora se zakonom zabraniti."
+      ],
+      "hash": "f804d17538c3710e0cffeecfcc88b36d1e4cd4efb76f5b06b27a6f5b1c8b10ac",
+      "tokens_approx": 28,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-21",
+      "number": "21",
+      "heading": "Pravo na mirno okupljanje mora biti priznato. Nikakva ograničenja ne",
+      "text": "mogu se postaviti ostvarenju toga prava osim onih koja su u skladu sa\nzakonom i koja su u demokratskom društvu prijeko potrebna radi interesa\ndržavne ili javne sigurnosti, javnog reda (ordre public), zaštite javnog\nzdravlja ili morala, ili zaštite prava i sloboda drugih.",
+      "sentences": [
+        "mogu se postaviti ostvarenju toga prava osim onih koja su u skladu sa\nzakonom i koja su u demokratskom društvu prijeko potrebna radi interesa\ndržavne ili javne sigurnosti, javnog reda (ordre public), zaštite javnog\nzdravlja ili morala, ili zaštite prava i sloboda drugih."
+      ],
+      "hash": "1b429eb14390b4c3992cf5d73717f7e3df6ff3d68cb6509e500cd6e4b81b0cc4",
+      "tokens_approx": 43,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-22",
+      "number": "22",
+      "heading": "l\\. Svatko ima pravo na slobodu udruživanja s drugima, uključujući pravo",
+      "text": "na osnivanje sindikata ili na pristupanje sindikatima radi zaštite\nsvojih interesa.\n\n2\\. Nikakva ograničenja ne mogu se postaviti ostvarenju toga prava, osim\nonih koja su propisana zakonom i koja su u demokratskom društvu prijeko\npotrebna radi interesa državne ili javne sigurnosti, javnog reda (ordre\npublic), zaštite javnog zdravlja ili morala, ili zaštite prava i sloboda\ndrugih. Ovaj članak ne zabranjuje nametanje zakonskih ograničenja u\nostvarivanju toga prava pripadnicima oružanih snaga i policije.\n\n3\\. Ništa u ovom članku ne daje pravo državama strankama Konvencije\nMeđunarodne organizacije rada iz 1948. o slobodi sindikalnog udruživanja\ni zaštiti prava na udruživanje, da poduzmu zakonske mjere ili da\nprimijene zakon na način kojim bi se ugrozila jamstva predviđena tom\nKonvencijom.",
+      "sentences": [
+        "na osnivanje sindikata ili na pristupanje sindikatima radi zaštite\nsvojih interesa.\n\n2\\.",
+        "Nikakva ograničenja ne mogu se postaviti ostvarenju toga prava, osim\nonih koja su propisana zakonom i koja su u demokratskom društvu prijeko\npotrebna radi interesa državne ili javne sigurnosti, javnog reda (ordre\npublic), zaštite javnog zdravlja ili morala, ili zaštite prava i sloboda\ndrugih.",
+        "Ovaj članak ne zabranjuje nametanje zakonskih ograničenja u\nostvarivanju toga prava pripadnicima oružanih snaga i policije.\n\n3\\.",
+        "Ništa u ovom članku ne daje pravo državama strankama Konvencije\nMeđunarodne organizacije rada iz 1948. o slobodi sindikalnog udruživanja\ni zaštiti prava na udruživanje, da poduzmu zakonske mjere ili da\nprimijene zakon na način kojim bi se ugrozila jamstva predviđena tom\nKonvencijom."
+      ],
+      "hash": "69a209d72dda490db17dfee3b6c1e187d05d02a14f2f43978d2a508057890cdd",
+      "tokens_approx": 115,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-23",
+      "number": "23",
+      "heading": "1\\. Obitelj je prirodna i temeljna društvena jedinica i ima pravo na",
+      "text": "zaštitu društva i države.\n\n2\\. Punoljetni muškarci i žene imaju pravo na sklapanje braka i\nosnivanje obitelji.\n\n3\\. Brak se može sklopiti samo uz slobodan i potpun pristanak osoba koje\nnamjeravaju ući u brak.\n\n4\\. Države stranke ovoga Pakta će usvojiti potrebne mjere kako bi\nosigurale jednakost bračnih drugova u pravima i dužnostima, prilikom\nsklapanja braka, u braku i tijekom razvoda. U slučaju razvoda, mora se\nosigurati zaštita djece.",
+      "sentences": [
+        "zaštitu društva i države.\n\n2\\.",
+        "Punoljetni muškarci i žene imaju pravo na sklapanje braka i\nosnivanje obitelji.\n\n3\\.",
+        "Brak se može sklopiti samo uz slobodan i potpun pristanak osoba koje\nnamjeravaju ući u brak.\n\n4\\.",
+        "Države stranke ovoga Pakta će usvojiti potrebne mjere kako bi\nosigurale jednakost bračnih drugova u pravima i dužnostima, prilikom\nsklapanja braka, u braku i tijekom razvoda.",
+        "U slučaju razvoda, mora se\nosigurati zaštita djece."
+      ],
+      "hash": "bc586400268f970abaed2ded13bd6f0aa8d57c888bb5bd80e800263a18212389",
+      "tokens_approx": 69,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-24",
+      "number": "24",
+      "heading": "8",
+      "text": "1\\. Svako dijete, bez razlike glede rase, boje kože, spola, jezika,\nvjere, nacionalnog ili socijalnog podrijetla, imovine ili rođenja, ima\npravo na mjere zaštite od strane svoje obitelji, društva i države koje\nodgovaraju njegovu malodobnom statusu.\n\n2\\. Svako dijete mora biti registrirano u matične knjige i dobiti ime\nneposredno nakon rođenja.\n\n3\\. Svako dijete ima pravo na državljanstvo.",
+      "sentences": [
+        "1\\.",
+        "Svako dijete, bez razlike glede rase, boje kože, spola, jezika,\nvjere, nacionalnog ili socijalnog podrijetla, imovine ili rođenja, ima\npravo na mjere zaštite od strane svoje obitelji, društva i države koje\nodgovaraju njegovu malodobnom statusu.\n\n2\\.",
+        "Svako dijete mora biti registrirano u matične knjige i dobiti ime\nneposredno nakon rođenja.\n\n3\\.",
+        "Svako dijete ima pravo na državljanstvo."
+      ],
+      "hash": "362c12b16743b7c875a9eb424b3c4fa182a283c1382a33b4e2e004728cf66fa1",
+      "tokens_approx": 58,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-25",
+      "number": "25",
+      "heading": "Svaki građanin mora imati pravo i mogućnost da bez ikakvih razlika",
+      "text": "navedenih u članku 2. i bez neutemeljenih ograničenja:\n\na\\) sudjeluje u vođenju javnih poslova, izravno ili preko slobodno\nizabranih predstavnika;\n\nb\\) bira i bude biran na poštenim povremenim izborima s općim i jednakim\npravom glasa koji se moraju provoditi tajnim glasovanjem, na način kojim\nse jamči slobodno izražavanje volje birača;\n\nc\\) ima pristup javnim službama u svojoj zemlji u skladu s načelom opće\njednakosti.",
+      "sentences": [
+        "navedenih u članku 2. i bez neutemeljenih ograničenja:\n\na\\) sudjeluje u vođenju javnih poslova, izravno ili preko slobodno\nizabranih predstavnika;\n\nb\\) bira i bude biran na poštenim povremenim izborima s općim i jednakim\npravom glasa koji se moraju provoditi tajnim glasovanjem, na način kojim\nse jamči slobodno izražavanje volje birača;\n\nc\\) ima pristup javnim službama u svojoj zemlji u skladu s načelom opće\njednakosti."
+      ],
+      "hash": "5d097586e3d36fa30a3d327e36c612c245867ccb7b12cebf17e963e8ebd47a15",
+      "tokens_approx": 64,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-26",
+      "number": "26",
+      "heading": "Sve osobe jednake su pred zakonom i imaju pravo na jednaku pravnu",
+      "text": "zaštitu bez ikakve diskriminacije. U tom smislu, zakonom se mora\nzabraniti svaka diskriminacija i svim osobama jamčiti jednaku i\ndjelotvornu zaštitu protiv svakog oblika diskriminacije, osobito glede\nrase, boje kože, spola, jezika, vjere, političkog ili drugog uvjerenja,\nnacionalnog ili socijalnog podrijetla, imovine, rođenja ili neke druge\nokolnosti.",
+      "sentences": [
+        "zaštitu bez ikakve diskriminacije.",
+        "U tom smislu, zakonom se mora\nzabraniti svaka diskriminacija i svim osobama jamčiti jednaku i\ndjelotvornu zaštitu protiv svakog oblika diskriminacije, osobito glede\nrase, boje kože, spola, jezika, vjere, političkog ili drugog uvjerenja,\nnacionalnog ili socijalnog podrijetla, imovine, rođenja ili neke druge\nokolnosti."
+      ],
+      "hash": "1b2ff8311472d0db19920923934ceb3085e04575df83e132f8c3c8b302048df8",
+      "tokens_approx": 47,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-27",
+      "number": "27",
+      "heading": "U onim državama u kojima postoje etničke, vjerske ili jezične manjine,",
+      "text": "osobama koje pripadaju tim manjinama ne smije se uskratiti pravo da u\nzajednici s ostalim pripadnicima svoje grupe uživaju svoju kulturu,\nispovijedaju i iskazuju svoju vjeru ili da se služe svojim jezikom.\n\nDIO IV.",
+      "sentences": [
+        "osobama koje pripadaju tim manjinama ne smije se uskratiti pravo da u\nzajednici s ostalim pripadnicima svoje grupe uživaju svoju kulturu,\nispovijedaju i iskazuju svoju vjeru ili da se služe svojim jezikom.",
+        "DIO IV."
+      ],
+      "hash": "ed456c199129c220ab44a0dd0f4bb4f32b02edde4f79deaad27a348d384d34ea",
+      "tokens_approx": 34,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-28",
+      "number": "28",
+      "heading": "1\\. Osnovat će se Odbor za prava čovjeka (dalje u ovom Paktu: Odbor).",
+      "text": "Bit će sastavljen od osamnaest članova i obavljat će naprijed navedene\nposlove.\n\n2\\. Odbor će činiti državljani država stranaka ovoga Pakta koji moraju\nbiti osobe visokog moralnog ugleda i osvjedočene stručnosti u području\nljudskih prava, pri čemu će se voditi računa o potrebi sudjelovanja\nnekoliko osoba s pravničkim iskustvom.\n\n9  \n\n3\\. Članovi Odbora biraju se i djeluju u svom osobnom svojstvu.",
+      "sentences": [
+        "Bit će sastavljen od osamnaest članova i obavljat će naprijed navedene\nposlove.\n\n2\\.",
+        "Odbor će činiti državljani država stranaka ovoga Pakta koji moraju\nbiti osobe visokog moralnog ugleda i osvjedočene stručnosti u području\nljudskih prava, pri čemu će se voditi računa o potrebi sudjelovanja\nnekoliko osoba s pravničkim iskustvom.\n\n9  \n\n3\\.",
+        "Članovi Odbora biraju se i djeluju u svom osobnom svojstvu."
+      ],
+      "hash": "cafea858c146e5089e7be525c810aba41154a88fc77174a9b836c6c4d2b4303f",
+      "tokens_approx": 61,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-29",
+      "number": "29",
+      "heading": "1\\. Članovi Odbora biraju se tajnim glasovanjem s liste osoba koje imaju",
+      "text": "kvalitete utvrđene člankom 28., na prijedlog država stranaka ovoga\nPakta.\n\n2\\. Svaka država stranka ovoga Pakta može predložiti najviše dvije\nosobe. Te osobe moraju biti državljani države koja ih predlaže.\n\n3\\. Ista osoba može biti ponovno predložena.",
+      "sentences": [
+        "kvalitete utvrđene člankom 28., na prijedlog država stranaka ovoga\nPakta.\n\n2\\.",
+        "Svaka država stranka ovoga Pakta može predložiti najviše dvije\nosobe.",
+        "Te osobe moraju biti državljani države koja ih predlaže.\n\n3\\.",
+        "Ista osoba može biti ponovno predložena."
+      ],
+      "hash": "4046f0805278c875bd9e763d710f2c0ec60b1fdafd249d21fea564bd16bcf5e1",
+      "tokens_approx": 37,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-30",
+      "number": "30",
+      "heading": "l\\. Prvi izbori održat će se najkasnije šest mjeseci od datuma stupanja",
+      "text": "na snagu ovoga Pakta.\n\n2\\. Najmanje četiri mjeseca prije početka svakog izbora za Odbor, osim\nizbora za popunjavanje ispražnjenog mjesta objavljenog u skladu s\nčlankom 34., glavni tajnik Ujedinjenih naroda uputit će pismeni poziv\ndržavama strankama ovoga Pakta da u roku od tri mjeseca dostave imena\nsvojih kandidata za članove Odbora.\n\n3\\. Glavni tajnik Ujedinjenih naroda sastavlja popis svih predloženih\nosoba abecednim redom s naznakom država stranaka koje ih predlažu i\ndostavlja ga državama strankama ovoga Pakta najkasnije mjesec dana prije\ndatuma izbora.\n\n4\\. Članovi Odbora biraju se na sastanku država stranaka ovoga Pakta\nkojega saziva glavni tajnik Ujedinjenih naroda u sjedištu Organizacije.\nNa tom sastanku, na kojemu dvije trećine država stranka ovoga Pakta\ntvore kvorum, članovi Odbora postaju oni kandidati koji dobiju najveći\nbroj glasova i apsolutnu većinu glasova predstavnika država stranka koji\nsu nazočni i koji glasuju.",
+      "sentences": [
+        "na snagu ovoga Pakta.\n\n2\\.",
+        "Najmanje četiri mjeseca prije početka svakog izbora za Odbor, osim\nizbora za popunjavanje ispražnjenog mjesta objavljenog u skladu s\nčlankom 34., glavni tajnik Ujedinjenih naroda uputit će pismeni poziv\ndržavama strankama ovoga Pakta da u roku od tri mjeseca dostave imena\nsvojih kandidata za članove Odbora.\n\n3\\.",
+        "Glavni tajnik Ujedinjenih naroda sastavlja popis svih predloženih\nosoba abecednim redom s naznakom država stranaka koje ih predlažu i\ndostavlja ga državama strankama ovoga Pakta najkasnije mjesec dana prije\ndatuma izbora.\n\n4\\.",
+        "Članovi Odbora biraju se na sastanku država stranaka ovoga Pakta\nkojega saziva glavni tajnik Ujedinjenih naroda u sjedištu Organizacije.",
+        "Na tom sastanku, na kojemu dvije trećine država stranka ovoga Pakta\ntvore kvorum, članovi Odbora postaju oni kandidati koji dobiju najveći\nbroj glasova i apsolutnu većinu glasova predstavnika država stranka koji\nsu nazočni i koji glasuju."
+      ],
+      "hash": "e102356fb01c203712b3322d7ff5fe06047e5b931d5cca7efb12e33a81b51209",
+      "tokens_approx": 139,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-31",
+      "number": "31",
+      "heading": "1\\. Odbor ne može imati više od jednoga pripadnika iste države.",
+      "text": "2\\. Prilikom izbora u Odbor vodi se računa o pravednoj geografskoj\nzastupljenosti članstva, zastupljenosti različitih oblika civilizacije i\nglavnih pravnih sustava.",
+      "sentences": [
+        "2\\.",
+        "Prilikom izbora u Odbor vodi se računa o pravednoj geografskoj\nzastupljenosti članstva, zastupljenosti različitih oblika civilizacije i\nglavnih pravnih sustava."
+      ],
+      "hash": "1fcb8a522d0b89a30454325319360afe57248b24057ce8c2aa2be32a17842734",
+      "tokens_approx": 21,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-32",
+      "number": "32",
+      "heading": "1\\. Članovi Odbora biraju se na razdoblje od četiri godine. Oni mogu",
+      "text": "biti ponovno birani ako ih se ponovno predloži. Pa ipak, mandat\ndevetorice članova izabranih na prvom izboru prestaje nakon dvije\ngodine. Neposredno nakon prvog izbora, predsjedavajući sjednice navedene\nu članku 30., stavku 4. ždrijebom određuje imena tih devet članova.\n\n2\\. Nakon isteka mandata izbori se održavaju u skladu s prethodnim\nčlancima ovoga dijela Pakta.",
+      "sentences": [
+        "biti ponovno birani ako ih se ponovno predloži.",
+        "Pa ipak, mandat\ndevetorice članova izabranih na prvom izboru prestaje nakon dvije\ngodine.",
+        "Neposredno nakon prvog izbora, predsjedavajući sjednice navedene\nu članku 30., stavku 4. ždrijebom određuje imena tih devet članova.\n\n2\\.",
+        "Nakon isteka mandata izbori se održavaju u skladu s prethodnim\nčlancima ovoga dijela Pakta."
+      ],
+      "hash": "47e04fe9d99305405ea4857a55e9455f6063a190b38ec86064c2a85fb21db90d",
+      "tokens_approx": 54,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-33",
+      "number": "33",
+      "heading": "10",
+      "text": "1\\. Ako prema jednoglasnom mišljenju ostalih članova jedan od članova\nOdbora ne obavlja svoju dužnost zbog bilo kojeg razloga osim zbog\nizostanka privremene naravi, predsjednik Odbora će o tome obavijestiti\nglavnog tajnika Ujedinjenih naroda, koji će potom mjesto toga člana\nproglasiti ispražnjenim.\n\n2\\. U slučaju smrti ili ostavke nekog člana Odbora, predsjednik će odmah\nobavijestiti glavnog tajnika Ujedinjenih naroda, koji će njegovo mjesto\nproglasiti ispražnjenim od datuma smrti ili od datuma kada ostavka\npostane važeća.",
+      "sentences": [
+        "1\\.",
+        "Ako prema jednoglasnom mišljenju ostalih članova jedan od članova\nOdbora ne obavlja svoju dužnost zbog bilo kojeg razloga osim zbog\nizostanka privremene naravi, predsjednik Odbora će o tome obavijestiti\nglavnog tajnika Ujedinjenih naroda, koji će potom mjesto toga člana\nproglasiti ispražnjenim.\n\n2\\.",
+        "U slučaju smrti ili ostavke nekog člana Odbora, predsjednik će odmah\nobavijestiti glavnog tajnika Ujedinjenih naroda, koji će njegovo mjesto\nproglasiti ispražnjenim od datuma smrti ili od datuma kada ostavka\npostane važeća."
+      ],
+      "hash": "cca521cf8ae7aa43aada46d85a9a20e521bdd98dfa9345e83092de5467322c90",
+      "tokens_approx": 75,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-34",
+      "number": "34",
+      "heading": "1\\. Kad je ispražnjeno mjesto oglašeno prema članku 33. i ako mandat",
+      "text": "člana kojega treba zamijeniti ne istječe prije šest mjeseci od objave\nispražnjenja, glavni tajnik Ujedinjenih naroda obavještava o tome države\nstranke ovoga Pakta, koje mogu u roku od dva mjeseca dostaviti imena\nsvojih kandidata za popunjavanje ispražnjenog mjesta u skladu s člankom\n29.\n\n2\\. Glavni tajnik Ujedinjenih naroda sastavlja popis svih predloženih\nosoba abecednim redom s naznakom država stranaka koje ih predlažu i\ndostavlja ga državama strankama ovoga Pakta. Nakon toga se vrši izbor za\npopunjavanje ispražnjenog mjesta u skladu s odredbama ovoga članka.\n\n3\\. Član Odbora koji je izabran kako bi popunio ispražnjeno mjesto\noglašeno u skladu s člankom 33., obavlja preostali dio mandata onog\nčlana čije je mjesto bilo ispražnjeno, u skladu s odredbama toga članka.",
+      "sentences": [
+        "člana kojega treba zamijeniti ne istječe prije šest mjeseci od objave\nispražnjenja, glavni tajnik Ujedinjenih naroda obavještava o tome države\nstranke ovoga Pakta, koje mogu u roku od dva mjeseca dostaviti imena\nsvojih kandidata za popunjavanje ispražnjenog mjesta u skladu s člankom\n29.\n\n2\\.",
+        "Glavni tajnik Ujedinjenih naroda sastavlja popis svih predloženih\nosoba abecednim redom s naznakom država stranaka koje ih predlažu i\ndostavlja ga državama strankama ovoga Pakta.",
+        "Nakon toga se vrši izbor za\npopunjavanje ispražnjenog mjesta u skladu s odredbama ovoga članka.\n\n3\\.",
+        "Član Odbora koji je izabran kako bi popunio ispražnjeno mjesto\noglašeno u skladu s člankom 33., obavlja preostali dio mandata onog\nčlana čije je mjesto bilo ispražnjeno, u skladu s odredbama toga članka."
+      ],
+      "hash": "73a887df9890720c91962dc580a74c12a03997873b8f48840fa26dc0dee84ac0",
+      "tokens_approx": 118,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-35",
+      "number": "35",
+      "heading": "Uz odobrenje Opće skupštine Ujedinjenih naroda, članovi Odbora primat će",
+      "text": "plaću iz sredstava Ujedinjenih naroda prema uvjetima koje odredi Opća\nskupština, uzimajući u obzir njihove odgovornosti.",
+      "sentences": [
+        "plaću iz sredstava Ujedinjenih naroda prema uvjetima koje odredi Opća\nskupština, uzimajući u obzir njihove odgovornosti."
+      ],
+      "hash": "84141e6b303f0d4d554d6dfcdf09f1f80276937371de9d93b061279f967f27e3",
+      "tokens_approx": 16,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-36",
+      "number": "36",
+      "heading": "Glavni tajnik Ujedinjenih naroda osigurat će potrebno osoblje i uvjete",
+      "text": "za rad kako bi Odbor mogao djelotvorno ostvarivati svoju ulogu u skladu\ns ovim Paktom.",
+      "sentences": [
+        "za rad kako bi Odbor mogao djelotvorno ostvarivati svoju ulogu u skladu\ns ovim Paktom."
+      ],
+      "hash": "19dc62a695edbad4bd583a0a273933ebb761fe90edab19e870c74f7e743af2b0",
+      "tokens_approx": 15,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-37",
+      "number": "37",
+      "heading": "l\\. Glavni tajnik Ujedinjenih naroda saziva prvu sjednicu Odbora u",
+      "text": "sjedištu Organizacije.\n\n2\\. Nakon prve sjednice, Odbor se sastaje prema svom poslovniku.\n\n3\\. Sjednice Odbora redovito se održavaju u sjedištu Ujedinjenih naroda\nili u uredu Ujedinjenih naroda u Ženevi.",
+      "sentences": [
+        "sjedištu Organizacije.\n\n2\\.",
+        "Nakon prve sjednice, Odbor se sastaje prema svom poslovniku.\n\n3\\.",
+        "Sjednice Odbora redovito se održavaju u sjedištu Ujedinjenih naroda\nili u uredu Ujedinjenih naroda u Ženevi."
+      ],
+      "hash": "63dfcb1b439e0495153f08086749b8640e53d78e3c3d536f2a423a3abc20d30c",
+      "tokens_approx": 29,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-38",
+      "number": "38",
+      "heading": "Prije preuzimanja dužnosti, na otvorenoj sjednici Odbora svaki član",
+      "text": "Odbora svečano priseže da će svoju dužnost obavljati nepristrano i\nsavjesno.\n\n11",
+      "sentences": [
+        "Odbora svečano priseže da će svoju dužnost obavljati nepristrano i\nsavjesno.\n\n11"
+      ],
+      "hash": "dcb6f6d5d73f56787c32de61e246a842998b087b232e01610f8264e378cdb3cc",
+      "tokens_approx": 12,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-39",
+      "number": "39",
+      "heading": "1\\. Odbor bira svoje dužnosnike na razdoblje od dvije godine. Oni mogu",
+      "text": "biti ponovno birani.\n\n2\\. Odbor donosi svoj poslovnik kojim se, inter alia, određuje:\n\na\\) da dvanaest članova čine kvorum;\n\nb\\) da se odluke Odbora donose većinom prisutnih članova.",
+      "sentences": [
+        "biti ponovno birani.\n\n2\\.",
+        "Odbor donosi svoj poslovnik kojim se, inter alia, određuje:\n\na\\) da dvanaest članova čine kvorum;\n\nb\\) da se odluke Odbora donose većinom prisutnih članova."
+      ],
+      "hash": "06f7175defd03cddfaa15246abd0e30efeaf8b38b9fde1c2016346dcb8a4309a",
+      "tokens_approx": 28,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-40",
+      "number": "40",
+      "heading": "1\\. Države stranke ovoga Pakta se obvezuju da će podnositi izvješća o",
+      "text": "mjerama koje su poduzele i kojima ostvaruju ovdje priznata prava, kao i\no napretku koji je postignut u uživanju tih prava:\n\na\\) u roku godine dana od stupanja na snagu ovoga Pakta u pojedinoj\ndržavi stranci;\n\nb\\) nakon toga, kad to sam Odbor zatraži.\n\n2\\. Sva izvješća se podnose glavnom tajniku Ujedinjenih naroda, koji ih\ndostavlja Odboru na razmatranje. U izvješćima se ukazuje na čimbenike i,\nako ih ima, na poteškoće koji utječu na primjenu ovoga Pakta.\n\n3\\. Glavni tajnik Ujedinjenih naroda može, nakon razgovora s Odborom,\nzainteresiranim specijaliziranim ustanovama dostaviti kopije onih\ndijelova izvješća koji spadaju pod njihovu nadležnost.\n\n4\\. Odbor proučava izvješća koja podnesu države stranke ovoga Pakta. On\ndržavama strankama dostavlja svoja izvješća i, kad smatra potrebnim,\nprimjedbe opće naravi. Odbor te primjedbe, zajedno s kopijama izvješća\nkoja je primio od država stranaka ovoga Pakta, može također dostaviti\nGospodarskom i socijalnom vijeću.\n\n5\\. Države stranke ovoga Pakta mogu Odboru podnositi svoje osvrte na\nprimjedbe iz stavka 4. ovoga članka.",
+      "sentences": [
+        "mjerama koje su poduzele i kojima ostvaruju ovdje priznata prava, kao i\no napretku koji je postignut u uživanju tih prava:\n\na\\) u roku godine dana od stupanja na snagu ovoga Pakta u pojedinoj\ndržavi stranci;\n\nb\\) nakon toga, kad to sam Odbor zatraži.\n\n2\\.",
+        "Sva izvješća se podnose glavnom tajniku Ujedinjenih naroda, koji ih\ndostavlja Odboru na razmatranje.",
+        "U izvješćima se ukazuje na čimbenike i,\nako ih ima, na poteškoće koji utječu na primjenu ovoga Pakta.\n\n3\\.",
+        "Glavni tajnik Ujedinjenih naroda može, nakon razgovora s Odborom,\nzainteresiranim specijaliziranim ustanovama dostaviti kopije onih\ndijelova izvješća koji spadaju pod njihovu nadležnost.\n\n4\\.",
+        "Odbor proučava izvješća koja podnesu države stranke ovoga Pakta.",
+        "On\ndržavama strankama dostavlja svoja izvješća i, kad smatra potrebnim,\nprimjedbe opće naravi.",
+        "Odbor te primjedbe, zajedno s kopijama izvješća\nkoja je primio od država stranaka ovoga Pakta, može također dostaviti\nGospodarskom i socijalnom vijeću.\n\n5\\.",
+        "Države stranke ovoga Pakta mogu Odboru podnositi svoje osvrte na\nprimjedbe iz stavka 4. ovoga članka."
+      ],
+      "hash": "d8327137f2f777d0a21ef4ec00d89fcc295c907d9e21792890a61c3e73b84329",
+      "tokens_approx": 162,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-41",
+      "number": "41",
+      "heading": "1\\. Pojedina država stranka ovoga Pakta može u bilo kojem času, prema",
+      "text": "ovom članku, izjaviti da priznaje nadležnost Odbora glede primanja i\nrazmatranja priopćenja u kojima neka država stranka tvrdi da druga\ndržava stranka ne ispunjava obveze iz ovoga Pakta. Priopćenja prema ovom\nčlanku mogu se primati i razmatrati samo ako ih podnese država stranka\nkoja za sebe izjavi da priznaje nadležnost Odbora. Odbor neće primati\nnikakvo priopćenje ako se ono odnosi na državu stranku koja nije dala\ntakvu izjavu. Priopćenja prema ovom članku razmatrat će se u skladu sa\nsljedećim postupkom:\n\na\\) Ako neka država stranka ovoga Pakta smatra da se druga država\nstranka ne pridržava odredbi ovoga Pakta, ona na to državi stranci može\nskrenuti pozornost pismenim priopćenjem. U roku tri mjeseca od primitka\ntakvog priopćenja, država koja je primila priopćenje daje državi koja je\ndostavila priopćenje objašnjenje ili kakvu drugu pisanu izjavu kojom\nrazjašnjava sporno pitanje i koja, u mjeri u kojoj je to moguće i\nkorisno, sadrži informacije o njenim pravilima postupka i\n\n12  \n\npravnim sredstvima koja se već primjenjuju, koja su pokrenuta i koja su\njoš dostupna.\n\nb\\) Ako se predmet ne riješi na zadovoljstvo obiju zainteresiranih\ndržava stranaka u roku od šest mjeseci otkad je državi primateljici\nupućeno prvo priopćenje, obje države imaju pravo iznijeti slučaj pred\nOdbor na način da priopćenje upute i Odboru i drugoj državi.\n\nc\\) Odbor će razmatrati dostavljeni predmet isključivo nakon što se\nuvjeri da su u postupku bila upotrijebljena i iscrpljena sva raspoloživa\ndomaća sredstva u skladu s općepriznatim načelima međunarodnog prava.\nIsto pravilo ne važi u slučaju neopravdanog odgađanja primjene pravnog\nlijeka.\n\nd\\) Odbor razmatra priopćenja prema ovom članku na zatvorenoj sjednici.\n\ne\\) Ako su odredbe iz točke c) ispunjene, Odbor će zainteresiranim\ndržavama strankama staviti na raspolaganje svoje usluge kako bi se došlo\ndo prijateljskog rješenja predmeta, uz poštivanje ljudskih prava i\ntemeljnih sloboda u skladu s ovim Paktom.\n\nf\\) U svezi s bilo kojim predmetom koji mu se podnosi, Odbor može\nzatražiti od država stranaka iz točke b) da mu dostave bilo koji\npodatak.\n\ng\\) Zainteresirane države stranke prema točki b) imaju pravo biti\nzastupljene na raspravi koju Odbor vodi o podnesenom predmetu i dati\nsvoje izjave usmeno i/ili pismeno.\n\nh\\) Odbor podnosi izvješće u roku od dvanaest mjeseci nakon primitka\npriopćenja iz točke b):\n\n\\(i\\) ako je rješenje postignuto u skladu s točkom e), Odbor svoje\nizvješće ograničava na kratku izjavu o činjenicama i postignutom\nrješenju;\n\n\\(ii\\) ako rješenje nije postignuto u skladu s točkom e), Odbor svoje\nizvješće ograničava na kratku izjavu o činjenicama, a pismene primjedbe\ni zapisnik o usmenim primjedbama zainteresiranih država stranaka prilaže\nuz izvješće. Izvješće o svakom predmetu priopćuje se zainteresiranim\ndržavama strankama.\n\n2\\. Odredbe ovoga članka postaju važeće nakon što deset država stranaka\novoga Pakta dadu izjave iz prvog stavka ovoga članka. Svoje izjave\ndržave stranke polažu kod glavnog tajnika Ujedinjenih naroda, koji\nnjihove kopije dostavlja ostalim državama strankama. Pojedina izjava se\nu svakom času može povući priopćenjem glavnom tajniku. Takvo povlačenje\nne utječe na razmatranje bilo kojeg predmeta koji je ranije upućen prema\novom članku. Nikakvo dalje priopćenje neke države stranke neće se\nprihvatiti nakon što glavni tajnik primi priopćenje o povlačenju izjave,\ndok zainteresirana država stranka ne dade novu izjavu.",
+      "sentences": [
+        "ovom članku, izjaviti da priznaje nadležnost Odbora glede primanja i\nrazmatranja priopćenja u kojima neka država stranka tvrdi da druga\ndržava stranka ne ispunjava obveze iz ovoga Pakta.",
+        "Priopćenja prema ovom\nčlanku mogu se primati i razmatrati samo ako ih podnese država stranka\nkoja za sebe izjavi da priznaje nadležnost Odbora.",
+        "Odbor neće primati\nnikakvo priopćenje ako se ono odnosi na državu stranku koja nije dala\ntakvu izjavu.",
+        "Priopćenja prema ovom članku razmatrat će se u skladu sa\nsljedećim postupkom:\n\na\\) Ako neka država stranka ovoga Pakta smatra da se druga država\nstranka ne pridržava odredbi ovoga Pakta, ona na to državi stranci može\nskrenuti pozornost pismenim priopćenjem.",
+        "U roku tri mjeseca od primitka\ntakvog priopćenja, država koja je primila priopćenje daje državi koja je\ndostavila priopćenje objašnjenje ili kakvu drugu pisanu izjavu kojom\nrazjašnjava sporno pitanje i koja, u mjeri u kojoj je to moguće i\nkorisno, sadrži informacije o njenim pravilima postupka i\n\n12  \n\npravnim sredstvima koja se već primjenjuju, koja su pokrenuta i koja su\njoš dostupna.\n\nb\\) Ako se predmet ne riješi na zadovoljstvo obiju zainteresiranih\ndržava stranaka u roku od šest mjeseci otkad je državi primateljici\nupućeno prvo priopćenje, obje države imaju pravo iznijeti slučaj pred\nOdbor na način da priopćenje upute i Odboru i drugoj državi.\n\nc\\) Odbor će razmatrati dostavljeni predmet isključivo nakon što se\nuvjeri da su u postupku bila upotrijebljena i iscrpljena sva raspoloživa\ndomaća sredstva u skladu s općepriznatim načelima međunarodnog prava.",
+        "Isto pravilo ne važi u slučaju neopravdanog odgađanja primjene pravnog\nlijeka.\n\nd\\) Odbor razmatra priopćenja prema ovom članku na zatvorenoj sjednici.\n\ne\\) Ako su odredbe iz točke c) ispunjene, Odbor će zainteresiranim\ndržavama strankama staviti na raspolaganje svoje usluge kako bi se došlo\ndo prijateljskog rješenja predmeta, uz poštivanje ljudskih prava i\ntemeljnih sloboda u skladu s ovim Paktom.\n\nf\\) U svezi s bilo kojim predmetom koji mu se podnosi, Odbor može\nzatražiti od država stranaka iz točke b) da mu dostave bilo koji\npodatak.\n\ng\\) Zainteresirane države stranke prema točki b) imaju pravo biti\nzastupljene na raspravi koju Odbor vodi o podnesenom predmetu i dati\nsvoje izjave usmeno i/ili pismeno.\n\nh\\) Odbor podnosi izvješće u roku od dvanaest mjeseci nakon primitka\npriopćenja iz točke b):\n\n\\(i\\) ako je rješenje postignuto u skladu s točkom e), Odbor svoje\nizvješće ograničava na kratku izjavu o činjenicama i postignutom\nrješenju;\n\n\\(ii\\) ako rješenje nije postignuto u skladu s točkom e), Odbor svoje\nizvješće ograničava na kratku izjavu o činjenicama, a pismene primjedbe\ni zapisnik o usmenim primjedbama zainteresiranih država stranaka prilaže\nuz izvješće.",
+        "Izvješće o svakom predmetu priopćuje se zainteresiranim\ndržavama strankama.\n\n2\\.",
+        "Odredbe ovoga članka postaju važeće nakon što deset država stranaka\novoga Pakta dadu izjave iz prvog stavka ovoga članka.",
+        "Svoje izjave\ndržave stranke polažu kod glavnog tajnika Ujedinjenih naroda, koji\nnjihove kopije dostavlja ostalim državama strankama.",
+        "Pojedina izjava se\nu svakom času može povući priopćenjem glavnom tajniku.",
+        "Takvo povlačenje\nne utječe na razmatranje bilo kojeg predmeta koji je ranije upućen prema\novom članku.",
+        "Nikakvo dalje priopćenje neke države stranke neće se\nprihvatiti nakon što glavni tajnik primi priopćenje o povlačenju izjave,\ndok zainteresirana država stranka ne dade novu izjavu."
+      ],
+      "hash": "4925d77c7d0f8a7f3758d7aeb0cee8f9f9187aa0854c656717fafdb0577bd075",
+      "tokens_approx": 522,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-42",
+      "number": "42",
+      "heading": "1\\. a) Ako neki predmet podnesen Odboru prema članku 41., nije riješen",
+      "text": "na\n\nzadovoljstvo zainteresiranih država stranka, Odbor može uz prethodni\npristanak zainteresiranih država stranka imenovati ad hoc Komisiju za\nmirenje (u daljem tekstu: Komisija). Komisija stavlja svoje dobre usluge\nna raspolaganje\n\n13  \n\nzainteresiranim državama strankama kako bi se postiglo prijateljsko\nrješenje predmeta u skladu s ovim Paktom;\n\nb\\) Komisija se sastoji od pet članova imenovanih uz suglasnost\nzainteresiranih država stranaka. Ako u roku tri mjeseca zainteresirane\ndržave stranke u cijelosti ili djelomično ne uspiju postići sporazum o\nsastavu Komisije, one članove Komisije za koje nije postignut sporazum,\nizabrat će Odbor tajnim glasovanjem između svojih članova dvotrećinskom\nvećinom glasova.\n\n2\\. Članovi Komisije djeluju u svom osobnom svojstvu. Oni ne smiju biti\ndržavljani zainteresiranih država stranka niti države koja nije stranka\novoga Pakta, kao ni države stranke koja nije dala izjavu prema članku\n41.\n\n3\\. Komisija bira svog predsjednika i donosi svoj poslovnik.\n\n4\\. Komisija održava redovito svoje sastanke u sjedištu Ujedinjenih\nnaroda ili u uredu Ujedinjenih naroda u Ženevi. Sastanak se može održati\ni na drugom odgovarajućem mjestu, koje Komisija odredi u dogovoru s\nglavnim tajnikom Ujedinjenih naroda i zainteresiranim državama\nstrankama.\n\n5\\. Osoblje predviđeno člankom 36. pruža svoje usluge komisiji osnovanoj\nu skladu s ovim člankom.\n\n6\\. Informacije koje primi i razmotri, Odbor stavlja na raspolaganje\nKomisiji koja naknadno od zainteresiranih država stranaka može zatražiti\nbilo koju dopunsku informaciju.\n\n7\\. Nakon što Komisija u potpunosti razmotri predmet, što se svakako\nmora učiniti u roku dvanaest mjeseci od njegova primitka, Komisija\npodnosi izvješće predsjedniku Odbora koji ga potom dostavlja\nzainteresiranim državama strankama:\n\na\\) ako Komisija ne uspije završiti razmatranje predmeta u roku dvanaest\nmjeseci, u svom izvješću ukratko opiše stanje u kojemu se predmet\nnalazi;\n\nb\\) ako je postignuto prijateljsko rješenje spora na temelju poštivanja\nljudskih prava priznatih ovim Paktom, Komisija svoje izvješće ograničava\nna kratko opisivanje činjenica i postignutog rješenja;\n\nc\\) ako rješenje u smislu točke b) nije postignuto, u izvješću Komisija\niznosi nalaze o svim činjenicama značajnim za predmet spora između\nzainteresiranih država stranaka i mišljenje o mogućnostima prijateljskog\nrješenja. Izvješće također sadrži pismene primjedbe i zapisnik o usmenim\nprimjedbama zainteresiranih država stranaka;\n\nd\\) ako je izvješće Komisije podneseno prema točki c), zainteresirane\ndržave stranke u roku tri mjeseca od primitka izvješća priopćuju\npredsjedniku Odbora prihvaćaju li ili ne prihvaćaju sadržaj izvješća\nKomisije.\n\n8\\. Odredbe ovoga članka ne zadiru u nadležnost Odbora prema članku 41.\n\n9\\. Zainteresirane države stranke podjednako dijele troškove rada\nKomisije u skladu s proračunom koji sastavlja glavni tajnik Ujedinjenih\nnaroda.\n\n10\\. Glavni tajnik Ujedinjenih naroda ovlašten je da po potrebi\nnadoknadi troškove rada Komisije prije nego što ih zainteresirane države\nstranke namire prema stavku 9. ovoga članka.\n\n14",
+      "sentences": [
+        "na\n\nzadovoljstvo zainteresiranih država stranka, Odbor može uz prethodni\npristanak zainteresiranih država stranka imenovati ad hoc Komisiju za\nmirenje (u daljem tekstu: Komisija).",
+        "Komisija stavlja svoje dobre usluge\nna raspolaganje\n\n13  \n\nzainteresiranim državama strankama kako bi se postiglo prijateljsko\nrješenje predmeta u skladu s ovim Paktom;\n\nb\\) Komisija se sastoji od pet članova imenovanih uz suglasnost\nzainteresiranih država stranaka.",
+        "Ako u roku tri mjeseca zainteresirane\ndržave stranke u cijelosti ili djelomično ne uspiju postići sporazum o\nsastavu Komisije, one članove Komisije za koje nije postignut sporazum,\nizabrat će Odbor tajnim glasovanjem između svojih članova dvotrećinskom\nvećinom glasova.\n\n2\\.",
+        "Članovi Komisije djeluju u svom osobnom svojstvu.",
+        "Oni ne smiju biti\ndržavljani zainteresiranih država stranka niti države koja nije stranka\novoga Pakta, kao ni države stranke koja nije dala izjavu prema članku\n41.\n\n3\\.",
+        "Komisija bira svog predsjednika i donosi svoj poslovnik.\n\n4\\.",
+        "Komisija održava redovito svoje sastanke u sjedištu Ujedinjenih\nnaroda ili u uredu Ujedinjenih naroda u Ženevi.",
+        "Sastanak se može održati\ni na drugom odgovarajućem mjestu, koje Komisija odredi u dogovoru s\nglavnim tajnikom Ujedinjenih naroda i zainteresiranim državama\nstrankama.\n\n5\\.",
+        "Osoblje predviđeno člankom 36. pruža svoje usluge komisiji osnovanoj\nu skladu s ovim člankom.\n\n6\\.",
+        "Informacije koje primi i razmotri, Odbor stavlja na raspolaganje\nKomisiji koja naknadno od zainteresiranih država stranaka može zatražiti\nbilo koju dopunsku informaciju.\n\n7\\.",
+        "Nakon što Komisija u potpunosti razmotri predmet, što se svakako\nmora učiniti u roku dvanaest mjeseci od njegova primitka, Komisija\npodnosi izvješće predsjedniku Odbora koji ga potom dostavlja\nzainteresiranim državama strankama:\n\na\\) ako Komisija ne uspije završiti razmatranje predmeta u roku dvanaest\nmjeseci, u svom izvješću ukratko opiše stanje u kojemu se predmet\nnalazi;\n\nb\\) ako je postignuto prijateljsko rješenje spora na temelju poštivanja\nljudskih prava priznatih ovim Paktom, Komisija svoje izvješće ograničava\nna kratko opisivanje činjenica i postignutog rješenja;\n\nc\\) ako rješenje u smislu točke b) nije postignuto, u izvješću Komisija\niznosi nalaze o svim činjenicama značajnim za predmet spora između\nzainteresiranih država stranaka i mišljenje o mogućnostima prijateljskog\nrješenja.",
+        "Izvješće također sadrži pismene primjedbe i zapisnik o usmenim\nprimjedbama zainteresiranih država stranaka;\n\nd\\) ako je izvješće Komisije podneseno prema točki c), zainteresirane\ndržave stranke u roku tri mjeseca od primitka izvješća priopćuju\npredsjedniku Odbora prihvaćaju li ili ne prihvaćaju sadržaj izvješća\nKomisije.\n\n8\\.",
+        "Odredbe ovoga članka ne zadiru u nadležnost Odbora prema članku 41.\n\n9\\.",
+        "Zainteresirane države stranke podjednako dijele troškove rada\nKomisije u skladu s proračunom koji sastavlja glavni tajnik Ujedinjenih\nnaroda.\n\n10\\.",
+        "Glavni tajnik Ujedinjenih naroda ovlašten je da po potrebi\nnadoknadi troškove rada Komisije prije nego što ih zainteresirane države\nstranke namire prema stavku 9. ovoga članka.\n\n14"
+      ],
+      "hash": "a9038783c2641764dff4368a81e930ad1fceeabeff520849c8abf1a2e20a42d7",
+      "tokens_approx": 432,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-43",
+      "number": "43",
+      "heading": "Članovi Odbora i ad hoc komisija za mirenje imenovani prema članku 42.,",
+      "text": "imaju pravo na olakšice, povlastice i izuzeća koja se priznaju\nstručnjacima u službi Ujedinjenih naroda, u skladu s odredbama\nKonvencije o povlasticama i izuzećima Ujedinjenih naroda.",
+      "sentences": [
+        "imaju pravo na olakšice, povlastice i izuzeća koja se priznaju\nstručnjacima u službi Ujedinjenih naroda, u skladu s odredbama\nKonvencije o povlasticama i izuzećima Ujedinjenih naroda."
+      ],
+      "hash": "aa5b0bac38dc4fc73567d1024910177f6fb110557671ff07f645a181d1370acc",
+      "tokens_approx": 26,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-44",
+      "number": "44",
+      "heading": "Odredbe o primjeni ovoga Pakta primjenjuju se bez štete po postupke u",
+      "text": "području ljudskih prava koji su utvrđeni statutima i konvencijama\nUjedinjenih naroda i specijaliziranih ustanova, i ne sprječavaju države\nstranke ovoga Pakta da koriste druge postupke kako bi riješile spor u\nskladu s općim ili posebnim sporazumima koji ih međusobno obvezuju.",
+      "sentences": [
+        "području ljudskih prava koji su utvrđeni statutima i konvencijama\nUjedinjenih naroda i specijaliziranih ustanova, i ne sprječavaju države\nstranke ovoga Pakta da koriste druge postupke kako bi riješile spor u\nskladu s općim ili posebnim sporazumima koji ih međusobno obvezuju."
+      ],
+      "hash": "66306947cbed1b329cab2f81bbcb1ec98c41952e9b6d3ad95967a0afee616b8a",
+      "tokens_approx": 40,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-45",
+      "number": "45",
+      "heading": "Odbor svake godine podnosi izvješće o svomu radu Općoj skupštini",
+      "text": "Ujedinjenih naroda posredstvom Gospodarskog i socijalnog vijeća.\n\nDIO V.",
+      "sentences": [
+        "Ujedinjenih naroda posredstvom Gospodarskog i socijalnog vijeća.",
+        "DIO V."
+      ],
+      "hash": "78c0c8ecbd312a6f70f72f39d2bdd445bfb932a60acad90e65b8be87b5d0ade7",
+      "tokens_approx": 9,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-46",
+      "number": "46",
+      "heading": "Ništa se u ovom Paktu ne smije tumačiti na štetu odredaba Povelje",
+      "text": "Ujedinjenih naroda i propisa specijaliziranih ustanova kojima se uređuje\nnadležnost različitih tijela Ujedinjenih naroda i specijaliziranih\nustanova po pitanjima kojima se bavi ovaj Pakt.",
+      "sentences": [
+        "Ujedinjenih naroda i propisa specijaliziranih ustanova kojima se uređuje\nnadležnost različitih tijela Ujedinjenih naroda i specijaliziranih\nustanova po pitanjima kojima se bavi ovaj Pakt."
+      ],
+      "hash": "5fdec395084d690c17770f611f99779727df083d4b8ef8481a93fb1cd20ec119",
+      "tokens_approx": 24,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-47",
+      "number": "47",
+      "heading": "Ništa se u ovom Paktu ne smije tumačiti na štetu prirodnog prava svih",
+      "text": "naroda da potpuno i slobodno uživaju i koriste svoja prirodna bogatstva\ni izvore.\n\nDIO VI.",
+      "sentences": [
+        "naroda da potpuno i slobodno uživaju i koriste svoja prirodna bogatstva\ni izvore.",
+        "DIO VI."
+      ],
+      "hash": "184260f578e981813ab2e5af8fbe3e2e9ecc249125b0e2d3c9a716b359cf5f46",
+      "tokens_approx": 15,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-48",
+      "number": "48",
+      "heading": "1\\. Ovaj Pakt otvoren je za potpisivanje svakoj državi članici",
+      "text": "Ujedinjenih naroda ili članici bilo koje od specijaliziranih ustanova\nUjedinjenih naroda, svakoj državi stranci Statuta Međunarodnog suda\npravde i svakoj drugoj državi koju Opća skupština pozove da postane\nstrankom ovoga Pakta.\n\n2\\. Ovaj Pakt podliježe ratifikaciji. Isprave o ratifikacije polažu se\nkod glavnog tajnika Ujedinjenih naroda.\n\n15  \n\n3\\. Ovaj Pakt otvoren je za pristup svakoj državi spomenutoj u stavku l.\novoga članka. 4. Pristup se obavlja polaganjem isprava o pristupu kod\nglavnog tajnika Ujedinjenih naroda.\n\n5\\. Glavni tajnik Ujedinjenih naroda obavještava sve države koje su\npotpisale ili pristupile ovom Paktu o polaganju svake isprave o\nratifikaciji ili pristupu.",
+      "sentences": [
+        "Ujedinjenih naroda ili članici bilo koje od specijaliziranih ustanova\nUjedinjenih naroda, svakoj državi stranci Statuta Međunarodnog suda\npravde i svakoj drugoj državi koju Opća skupština pozove da postane\nstrankom ovoga Pakta.\n\n2\\.",
+        "Ovaj Pakt podliježe ratifikaciji.",
+        "Isprave o ratifikacije polažu se\nkod glavnog tajnika Ujedinjenih naroda.\n\n15  \n\n3\\.",
+        "Ovaj Pakt otvoren je za pristup svakoj državi spomenutoj u stavku l.\novoga članka. 4.",
+        "Pristup se obavlja polaganjem isprava o pristupu kod\nglavnog tajnika Ujedinjenih naroda.\n\n5\\.",
+        "Glavni tajnik Ujedinjenih naroda obavještava sve države koje su\npotpisale ili pristupile ovom Paktu o polaganju svake isprave o\nratifikaciji ili pristupu."
+      ],
+      "hash": "6981a3c18cac58a69b2b9f282ff773955c8df3ce8e298c2b1ce70b7e29747b8a",
+      "tokens_approx": 98,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-49",
+      "number": "49",
+      "heading": "l\\. Ovaj Pakt stupa na snagu tri mjeseca nakon datuma polaganja trideset",
+      "text": "i pete po redu isprave o ratifikaciji ili pristupu kod glavnog tajnika\nUjedinjenih naroda.\n\n2\\. Za svaku državu koja ratificira ili pristupi ovom Paktu nakon\npolaganja trideset i pete isprave o ratifikaciji ili pristupu, ovaj Pakt\npostaje pravno važeći tri mjeseca nakon što ona položi svoju ispravu o\nratifikaciji ili pristupu.",
+      "sentences": [
+        "i pete po redu isprave o ratifikaciji ili pristupu kod glavnog tajnika\nUjedinjenih naroda.\n\n2\\.",
+        "Za svaku državu koja ratificira ili pristupi ovom Paktu nakon\npolaganja trideset i pete isprave o ratifikaciji ili pristupu, ovaj Pakt\npostaje pravno važeći tri mjeseca nakon što ona položi svoju ispravu o\nratifikaciji ili pristupu."
+      ],
+      "hash": "3bd0c571fcb8fae097896b5057fdc1e4dd4c32f9440ff9352ebd409d27bb076e",
+      "tokens_approx": 51,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-50",
+      "number": "50",
+      "heading": "Odredbe ovoga Pakta primjenjuju se u svim dijelovima saveznih država bez",
+      "text": "ikakvih ograničenja ili izuzetaka.",
+      "sentences": [
+        "ikakvih ograničenja ili izuzetaka."
+      ],
+      "hash": "ccdeea8db35660f0a1169f56bb7f4a99020c69ca24b24d8ec14a99d517af8056",
+      "tokens_approx": 4,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-51",
+      "number": "51",
+      "heading": "1\\. Svaka država stranka ovoga Pakta može predložiti izmjenu ili dopunu",
+      "text": "i tekst dostaviti glavnom tajniku Ujedinjenih naroda. Nakon toga glavni\ntajnik Ujedinjenih naroda državama strankama ovoga Pakta dostavlja sve\nprijedloge izmjena ili dopuna, uz zahtjev da se izjasne jesu li za\nsazivanje konferencije država stranaka u svrhu razmatranja i glasovanja\no tim prijedlozima. Ako se najmanje jedna trećina država stranaka\nizjasni u prilog sazivanju konferencije, glavni tajnik saziva\nkonferenciju pod pokroviteljstvom Ujedinjenih naroda. Svaka izmjena ili\ndopuna koja se usvoji većinom glasova država stranaka koje sudjeluju na\nkonferenciji i koje glasuju, podnosi se Općoj skupštini Ujedinjenih\nnaroda na usvajanje.\n\n2\\. Izmjene ili dopune stupaju na snagu kad ih odobri Opća skupština\nUjedinjenih naroda i kad ih prihvate dvije trećine država stranaka ovoga\nPakta u skladu s njihovim ustavnim pravilima.\n\n3\\. Nakon što izmjene ili dopune stupe na snagu, one postaju obvezne za\ndržave stranke koje su ih prihvatile, dok su druge države stranke i\nnadalje obvezane odredbama ovoga Pakta i svakom ranije prihvaćenom\nizmjenom ili dopunom.",
+      "sentences": [
+        "i tekst dostaviti glavnom tajniku Ujedinjenih naroda.",
+        "Nakon toga glavni\ntajnik Ujedinjenih naroda državama strankama ovoga Pakta dostavlja sve\nprijedloge izmjena ili dopuna, uz zahtjev da se izjasne jesu li za\nsazivanje konferencije država stranaka u svrhu razmatranja i glasovanja\no tim prijedlozima.",
+        "Ako se najmanje jedna trećina država stranaka\nizjasni u prilog sazivanju konferencije, glavni tajnik saziva\nkonferenciju pod pokroviteljstvom Ujedinjenih naroda.",
+        "Svaka izmjena ili\ndopuna koja se usvoji većinom glasova država stranaka koje sudjeluju na\nkonferenciji i koje glasuju, podnosi se Općoj skupštini Ujedinjenih\nnaroda na usvajanje.\n\n2\\.",
+        "Izmjene ili dopune stupaju na snagu kad ih odobri Opća skupština\nUjedinjenih naroda i kad ih prihvate dvije trećine država stranaka ovoga\nPakta u skladu s njihovim ustavnim pravilima.\n\n3\\.",
+        "Nakon što izmjene ili dopune stupe na snagu, one postaju obvezne za\ndržave stranke koje su ih prihvatile, dok su druge države stranke i\nnadalje obvezane odredbama ovoga Pakta i svakom ranije prihvaćenom\nizmjenom ili dopunom."
+      ],
+      "hash": "3ebcc57720dae7939a602819a4bd4a02d1935b53fc0bc3a261d28946d638b2e5",
+      "tokens_approx": 156,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-52",
+      "number": "52",
+      "heading": "Neovisno o priopćenjima prema članku 48., stavku 5., glavni tajnik",
+      "text": "Ujedinjenih naroda obavještava sve države spomenute u stavku l. istoga\nčlanka o sljedećim pojedinostima:\n\na\\) potpisima, ratifikacijama i pristupima prema članku 48.;\n\nb\\) datumu stupanja na snagu ovoga Pakta prema članku 49. i datumu\nstupanja na snagu svake izmjene ili dopune prema članku 51.\n\n16",
+      "sentences": [
+        "Ujedinjenih naroda obavještava sve države spomenute u stavku l. istoga\nčlanka o sljedećim pojedinostima:\n\na\\) potpisima, ratifikacijama i pristupima prema članku 48.;\n\nb\\) datumu stupanja na snagu ovoga Pakta prema članku 49. i datumu\nstupanja na snagu svake izmjene ili dopune prema članku 51.\n\n16"
+      ],
+      "hash": "8f30d5f7a8b05524c7446623c5cc7bd2c7cc0d18a70a7c4b93f99e0b0cca951c",
+      "tokens_approx": 45,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-iccpr-hr-cl-53",
+      "number": "53",
+      "heading": "l\\. Ovaj Pakt kojega su, kineski, engleski, francuski, ruski i",
+      "text": "španjolski tekst jednako vjerodostojni, bit će pohranjen u arhivu\nUjedinjenih naroda.\n\n2\\. Glavni tajnik Ujedinjenih naroda dostavit će ovjerene prijepise\novoga Pakta svim državama spomenutim u članku 48.\n\nPotvrđujući navedeno, doljepotpisani opunomoćenici, uredno ovlašteni od\nsvojih vlada, potpisali su ovaj Pakt, koji je otvoren za potpisivanje u\nNew Yorku devetnaestog prosinca tisuću devet stotina šezdeset i šeste.\n\nPrevela: Vedrana Spajić-Vrkaš",
+      "sentences": [
+        "španjolski tekst jednako vjerodostojni, bit će pohranjen u arhivu\nUjedinjenih naroda.\n\n2\\.",
+        "Glavni tajnik Ujedinjenih naroda dostavit će ovjerene prijepise\novoga Pakta svim državama spomenutim u članku 48.",
+        "Potvrđujući navedeno, doljepotpisani opunomoćenici, uredno ovlašteni od\nsvojih vlada, potpisali su ovaj Pakt, koji je otvoren za potpisivanje u\nNew Yorku devetnaestog prosinca tisuću devet stotina šezdeset i šeste.",
+        "Prevela: Vedrana Spajić-Vrkaš"
+      ],
+      "hash": "e634e633b9a42f706e3f648f91cef742a28aa9e075529d9ab9c87ea07bdf0dc9",
+      "tokens_approx": 60,
+      "refs": {},
+      "notes": null
+    }
+  ]
+}

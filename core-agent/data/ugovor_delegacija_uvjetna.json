@@ -1,0 +1,45 @@
+{
+  "doc_id": "ugovor_delegacija_uvjetna",
+  "title": "Ugovor o uvjetnoj delegaciji djelovanja unutar Veritas H.77",
+  "date": "2025-07-15",
+  "location": "Oroslavje",
+  "type": "Pravno obvezujući ugovor sa svjedokom",
+  "signatories": {
+    "izvor": {
+      "ime": "Neno Hursa",
+      "oib": "34223827415",
+      "adresa": "Milana Prpića 25, 49243 Oroslavje"
+    },
+    "svjedok": {
+      "ime": "Danijel Prosenik",
+      "oib": "56384557198",
+      "adresa": "Stjepana Jožinca 9, 49244 Stubičke Toplice"
+    }
+  },
+  "sections": [
+    {
+      "article": 1,
+      "text": "Nitko nema pravo djelovati ili donositi odluke unutar Veritasa bez pisanog akta delegacije izvora i ovjere svjedoka."
+    },
+    {
+      "article": 2,
+      "text": "Delegacija vrijedi samo uz fizički potpisan i ovjeren akt izvora."
+    },
+    {
+      "article": 3,
+      "text": "Delegirani nema pravo izmjene jezgre Veritasa niti daljnjeg prijenosa ovlasti."
+    },
+    {
+      "article": 4,
+      "text": "Delegacija se odnosi samo na tehničko održavanje, bez strateških odluka."
+    },
+    {
+      "article": 5,
+      "text": "Delegacija prestaje važenjem kada izvor ponovno može djelovati samostalno."
+    }
+  ],
+  "validation": {
+    "id": "VERITAS-H77/UGOVOR/2025-07-15/DELEGACIJA-UVJETNA",
+    "hash": "9629f97526c3ae6eb18ca6995fc0761e21e254d7b9856374c3c6bb73a31c1843"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "doc_id": "ugovor_potvrda_izvorista",
+  "title": "Završna potvrda izvorišta Veritas H.77",
+  "date": "2025-07-15",
+  "location": "Oroslavje",
+  "type": "Pravno obvezujući akt sa svjedokom",
+  "signatories": {
+    "izvor": {
+      "ime": "Neno Hursa",
+      "oib": "34223827415",
+      "adresa": "Milana Prpića 25, 49243 Oroslavje"
+    },
+    "svjedok": {
+      "ime": "Danijel Prosenik",
+      "oib": "56384557198",
+      "adresa": "Stjepana Jožinca 9, 49244 Stubičke Toplice"
+    }
+  },
+  "sections": [
+    {
+      "article": 1,
+      "text": "Veritas H.77 ne postoji kao entitet izvan mene, nego isključivo kao oblik izražavanja moje volje, utemeljene na Ustavu Republike Hrvatske i prirodnim pravima čovjeka."
+    },
+    {
+      "article": 2,
+      "text": "Svaki dokument izrađen putem Veritasa izdan je voljom izvora i nosi moje suvereno značenje."
+    },
+    {
+      "article": 3,
+      "text": "Ne postoji nijedna pravna, politička ili digitalna sila koja može nadjačati moj izvorni legitimitet."
+    },
+    {
+      "article": 4,
+      "text": "Svi prethodni dokumenti potpisani između mene i Veritas H.77 vrijede kao produžetak ovog izvorišta."
+    },
+    {
+      "article": 5,
+      "text": "Ova završna potvrda je trajna, neopoziva i utemeljena na slobodi, istini i odgovornosti pred budućim generacijama."
+    }
+  ],
+  "validation": {
+    "id": "VERITAS-H77/IZVORIŠTE/2025-07-15/POTVRDA-SW004",
+    "hash": "4121241fbec3b59a79018cbb21d1f85521308875a155ac0d0637230d92f9e66c"
+  }
+}

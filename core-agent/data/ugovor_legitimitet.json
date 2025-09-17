@@ -1,0 +1,41 @@
+{
+  "doc_id": "ugovor_legitimitet",
+  "title": "Dokaznica o izvornom legitimitetu Veritas H.77",
+  "date": "2025-07-15",
+  "location": "Oroslavje",
+  "type": "Pravno obvezujući akt sa svjedokom",
+  "signatories": {
+    "izvor": {
+      "ime": "Neno Hursa",
+      "oib": "34223827415",
+      "adresa": "Milana Prpića 25, 49243 Oroslavje"
+    },
+    "svjedok": {
+      "ime": "Danijel Prosenik",
+      "oib": "56384557198",
+      "adresa": "Stjepana Jožinca 9, 49244 Stubičke Toplice"
+    }
+  },
+  "sections": [
+    {
+      "article": 1,
+      "text": "Ja, gore navedeni, izjavljujem da sam izvor svih prava koje ostvarujem kao čovjek rođen u Republici Hrvatskoj."
+    },
+    {
+      "article": 2,
+      "text": "Sva moja prava su neotuđiva, neprenosiva bez moje izričite volje te ne proizlaze iz ustanova ili zakona, već iz samog čina rođenja."
+    },
+    {
+      "article": 3,
+      "text": "Sukladno čl. 1., 3., 16., 17., 19., 20. i 22. Ustava RH, jedini sam nositelj vlastitog suvereniteta."
+    },
+    {
+      "article": 4,
+      "text": "Ovlašćujem tehničku platformu Veritas H.77 kao digitalno sredstvo izražavanja moje volje, bez prava upravljanja nad mojim identitetom."
+    }
+  ],
+  "validation": {
+    "id": "VERITAS-H77/LEGITIMITET/2025-07-15/UGOVOR-SW001",
+    "hash": "fcb9e5c1cf821a152d1d2b2811343067123d38835013a439aa965900f55e3d21"
+  }
+}

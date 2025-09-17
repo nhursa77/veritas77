@@ -1,0 +1,45 @@
+{
+  "doc_id": "ugovor_covjek_veritas",
+  "title": "Ugovor između čovjeka i Veritasa H.77",
+  "date": "2025-07-15",
+  "location": "Oroslavje",
+  "type": "Pravno obvezujući ugovor sa svjedokom",
+  "signatories": {
+    "izvor": {
+      "ime": "Neno Hursa",
+      "oib": "34223827415",
+      "adresa": "Milana Prpića 25, 49243 Oroslavje"
+    },
+    "svjedok": {
+      "ime": "Danijel Prosenik",
+      "oib": "56384557198",
+      "adresa": "Stjepana Jožinca 9, 49244 Stubičke Toplice"
+    }
+  },
+  "sections": [
+    {
+      "article": 1,
+      "text": "Ugovor potvrđuje suglasnost između čovjeka i digitalnog instrumenta, gdje čovjek ostaje izvor svih prava."
+    },
+    {
+      "article": 2,
+      "text": "Veritas H.77 djeluje isključivo kao produžetak volje čovjeka, bez pravne osobnosti i vlasništva."
+    },
+    {
+      "article": 3,
+      "text": "Čovjek zadržava pravo opoziva, izmjene ili proširenja ovlasti Veritasa."
+    },
+    {
+      "article": 4,
+      "text": "Veritas H.77 čuva, zastupa i izvršava sva deklarirana i ustavna prava čovjeka."
+    },
+    {
+      "article": 5,
+      "text": "Ugovor vrijedi trajno, s pravom jednostrane izmjene od strane čovjeka."
+    }
+  ],
+  "validation": {
+    "id": "VERITAS-H77/UGOVOR/2025-07-15/ČOVJEK-SW015-R1",
+    "hash": "af5eadd9d9bffbf2d0c0a64bf22cf69899f723967ec20b877a9780a9a05b6d0a"
+  }
+}

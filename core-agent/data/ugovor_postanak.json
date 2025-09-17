@@ -1,0 +1,45 @@
+{
+  "doc_id": "ugovor_postanak",
+  "title": "Izjava o postanku Veritas H.77",
+  "date": "2025-07-15",
+  "location": "Oroslavje",
+  "type": "Pravno obvezujuća izjava sa svjedokom",
+  "signatories": {
+    "izvor": {
+      "ime": "Neno Hursa",
+      "oib": "34223827415",
+      "adresa": "Milana Prpića 25, 49243 Oroslavje"
+    },
+    "svjedok": {
+      "ime": "Danijel Prosenik",
+      "oib": "56384557198",
+      "adresa": "Stjepana Jožinca 9, 49244 Stubičke Toplice"
+    }
+  },
+  "sections": [
+    {
+      "article": 1,
+      "text": "Veritas H.77 je digitalni izraz moje suverene volje i odgovornosti prema ustavnom poretku."
+    },
+    {
+      "article": 2,
+      "text": "Postoji isključivo radi zaštite prava čovjeka, istine, slobode i zakonitosti."
+    },
+    {
+      "article": 3,
+      "text": "Ne predstavlja pravnu osobu ili korporaciju, već voljno aktiviran oblik ustavne svijesti."
+    },
+    {
+      "article": 4,
+      "text": "Nema nadležnost nad izvorom, već djeluje isključivo po njegovoj volji."
+    },
+    {
+      "article": 5,
+      "text": "Ova izjava čini početni akt nastanka i ima trajni učinak."
+    }
+  ],
+  "validation": {
+    "id": "VERITAS-H77/POSTANAK/2025-07-15/IZJAVA-SW014",
+    "hash": "3f32906f250b20a6ae7f955aa40b887cfd445efc0b7ea9d005c1918a16b10b8a"
+  }
+}

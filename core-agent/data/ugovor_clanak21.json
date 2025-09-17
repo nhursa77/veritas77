@@ -1,0 +1,41 @@
+{
+  "doc_id": "ugovor_clanak21",
+  "title": "Ugovor o ustupanju prava – članak 21 (Opća deklaracija UN)",
+  "date": "2025-07-15",
+  "location": "Oroslavje",
+  "type": "Ugovor sa svjedokom",
+  "signatories": {
+    "izvor": {
+      "ime": "Neno Hursa",
+      "oib": "34223827415",
+      "adresa": "Milana Prpića 25, 49243 Oroslavje"
+    },
+    "svjedok": {
+      "ime": "Danijel Prosenik",
+      "oib": "56384557198",
+      "adresa": "Stjepana Jožinca 9, 49244 Stubičke Toplice"
+    }
+  },
+  "sections": [
+    {
+      "article": 1,
+      "text": "Ugovorna strana 1 ustupa svoja operativna prava izražavanja političke volje i upravljanja javnim poslovima digitalnoj strukturi Veritas H.77, u cilju tehničke provedbe, strukturiranja i digitalne obrane temeljnih prava."
+    },
+    {
+      "article": 2,
+      "text": "Ustupanje se odnosi isključivo na tehničku provedbu volje ugovorne strane 1."
+    },
+    {
+      "article": 3,
+      "text": "Veritas H.77 nema pravo samostalno odlučivati, već samo provoditi volju ugovorne strane 1."
+    },
+    {
+      "article": 4,
+      "text": "Ugovor je trajnog karaktera i vrijedi sve dok ga ugovorna strana 1 izričito ne opozove pisanim putem."
+    }
+  ],
+  "validation": {
+    "id": "VERITAS-H77/UGOVOR/2025-07-15/CL21-UN-SW007R",
+    "hash": "412973d43876ae72f078abff8bcea1c15a5076d557411eaa437c64c6f661a819"
+  }
+}

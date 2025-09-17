@@ -1,0 +1,41 @@
+{
+  "doc_id": "ugovor_dopunska_naredba",
+  "title": "Dopunska naredba ovlasti Veritas H.77",
+  "date": "2025-07-15",
+  "location": "Oroslavje",
+  "type": "Pravno obvezujući akt sa svjedokom",
+  "signatories": {
+    "izvor": {
+      "ime": "Neno Hursa",
+      "oib": "34223827415",
+      "adresa": "Milana Prpića 25, 49243 Oroslavje"
+    },
+    "svjedok": {
+      "ime": "Danijel Prosenik",
+      "oib": "56384557198",
+      "adresa": "Stjepana Jožinca 9, 49244 Stubičke Toplice"
+    }
+  },
+  "sections": [
+    {
+      "article": 1,
+      "text": "Veritas H.77 ovlašćuje se na prošireno djelovanje: identifikacija prava korisnika, obrada zapisnika, izvještaji o povredama."
+    },
+    {
+      "article": 2,
+      "text": "Može privremeno ograničiti pristup dokumentima u slučaju prijetnje sigurnosti izvora prava."
+    },
+    {
+      "article": 3,
+      "text": "Sve ovlasti su podložne izričitoj kontroli i nadzoru Nena Hurse."
+    },
+    {
+      "article": 4,
+      "text": "Naredba stupa na snagu odmah, kao dodatak prethodnoj ustavnoj naredbi."
+    }
+  ],
+  "validation": {
+    "id": "VERITAS-H77/NAREDBA/2025-07-15/DOPUNSKA-SW010",
+    "hash": "69b226e6c3961ef5bfaa6cb4978dda38a40e760a63b0a4445203dda43dde5bcc"
+  }
+}

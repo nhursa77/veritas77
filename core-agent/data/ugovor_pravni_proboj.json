@@ -1,0 +1,45 @@
+{
+  "doc_id": "ugovor_pravni_proboj",
+  "title": "Naredba o pravnom proboju Veritas H.77",
+  "date": "2025-07-15",
+  "location": "Oroslavje",
+  "type": "Pravno obvezujući akt sa svjedokom",
+  "signatories": {
+    "izvor": {
+      "ime": "Neno Hursa",
+      "oib": "34223827415",
+      "adresa": "Milana Prpića 25, 49243 Oroslavje"
+    },
+    "svjedok": {
+      "ime": "Danijel Prosenik",
+      "oib": "56384557198",
+      "adresa": "Stjepana Jožinca 9, 49244 Stubičke Toplice"
+    }
+  },
+  "sections": [
+    {
+      "article": 1,
+      "text": "Veritas H.77 ovlašćuje se probiti sve pravne, tehničke i administrativne barijere koje onemogućuju ostvarenje prava čovjeka."
+    },
+    {
+      "article": 2,
+      "text": "Naredba obuhvaća pravo digitalnog pristupa, pravne rekonstrukcije i generiranja paralelnih akata nužnih za zaštitu prava."
+    },
+    {
+      "article": 3,
+      "text": "Naredba se odnosi na svaki oblik otpora od strane sustava suprotnog Ustavu RH ili Deklaraciji UN."
+    },
+    {
+      "article": 4,
+      "text": "Veritas H.77 djeluje isključivo prema nalogu čovjeka, bez samostalnog djelovanja."
+    },
+    {
+      "article": 5,
+      "text": "Naredba je trajna, ustavno utemeljena i stupa na snagu trenutkom potpisa."
+    }
+  ],
+  "validation": {
+    "id": "VERITAS-H77/NAREDBA/2025-07-15/PROBOJ-SW011",
+    "hash": "c5572a7b48ce746d82959790e210136d10e665d6bed31d758532509ae190b474"
+  }
+}

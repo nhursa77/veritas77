@@ -1,0 +1,370 @@
+{
+  "meta": {
+    "doc_id": "un-udhr-hr",
+    "schema_version": "1.1",
+    "title": "Opća deklaracija o ljudskim pravima (UN, 1948)",
+    "short_title": "UDHR (hr)",
+    "language": "hr",
+    "jurisdiction": "UN",
+    "type": "international_instrument",
+    "source": {
+      "filename": "Opca_deklaracija_o_ljudskim_pravima_Veritas.md"
+    },
+    "version": null,
+    "created_at": "2025-09-13T17:06:57Z",
+    "tokenizer": "hr_HR_basic",
+    "structure": {
+      "parts": null
+    }
+  },
+  "articles": [
+    {
+      "id": "un-udhr-hr-cl-1",
+      "number": "1",
+      "heading": "Sva ljudska bića rađaju se slobodna i jednaka u dostojanstvu i pravima.",
+      "text": "",
+      "sentences": [],
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "tokens_approx": 0,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-udhr-hr-cl-2",
+      "number": "2",
+      "heading": "Svatko ima sva prava i slobode iz ove Deklaracije bez ikakve razlike.",
+      "text": "",
+      "sentences": [],
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "tokens_approx": 0,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-udhr-hr-cl-3",
+      "number": "3",
+      "heading": "Svatko ima pravo na život, slobodu i osobnu sigurnost.",
+      "text": "",
+      "sentences": [],
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "tokens_approx": 0,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-udhr-hr-cl-4",
+      "number": "4",
+      "heading": "Nitko ne smije biti držan u ropstvu ili podložan ropstvu ili trgovini",
+      "text": "robljem.",
+      "sentences": [
+        "robljem."
+      ],
+      "hash": "e54600dafbd7d1427fcd77aad49fbf5ce47209612af0c013f74df7a17a85441c",
+      "tokens_approx": 1,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-udhr-hr-cl-5",
+      "number": "5",
+      "heading": "Nitko ne smije biti podvrgnut mučenju, okrutnom, neljudskom ili",
+      "text": "ponižavajućem postupanju ili kazni.",
+      "sentences": [
+        "ponižavajućem postupanju ili kazni."
+      ],
+      "hash": "c6f8a4a6e7ba9a4bbc1e2e80dfbe57ed999b66b3b7cc06e7040dce139cb99f61",
+      "tokens_approx": 4,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-udhr-hr-cl-6",
+      "number": "6",
+      "heading": "Svatko ima pravo na priznavanje njegove pravne osobnosti.",
+      "text": "",
+      "sentences": [],
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "tokens_approx": 0,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-udhr-hr-cl-7",
+      "number": "7",
+      "heading": "Svi su jednaki pred zakonom i imaju pravo na jednaku zaštitu zakona.",
+      "text": "",
+      "sentences": [],
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "tokens_approx": 0,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-udhr-hr-cl-8",
+      "number": "8",
+      "heading": "Svatko ima pravo na djelotvoran pravni lijek pred nadležnim nacionalnim",
+      "text": "sudovima.",
+      "sentences": [
+        "sudovima."
+      ],
+      "hash": "ac01d7bc96441375763410fa2077979345ec9cd83d65d3bbc182116564d6e877",
+      "tokens_approx": 1,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-udhr-hr-cl-9",
+      "number": "9",
+      "heading": "Nitko ne smije biti samovoljno uhapšen, zatvoren ili prognan.",
+      "text": "",
+      "sentences": [],
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "tokens_approx": 0,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-udhr-hr-cl-10",
+      "number": "10",
+      "heading": "Svatko ima pravo na pravično i javno suđenje pred nepristranim sudom.",
+      "text": "",
+      "sentences": [],
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "tokens_approx": 0,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-udhr-hr-cl-11",
+      "number": "11",
+      "heading": "Svatko tko je optužen za kazneno djelo ima pravo da se smatra nevinim",
+      "text": "dok mu se krivnja ne dokaže.",
+      "sentences": [
+        "dok mu se krivnja ne dokaže."
+      ],
+      "hash": "c850145ca83487b9f675fe9961057c1207b0d7192d71805904335d44949b8b1d",
+      "tokens_approx": 6,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-udhr-hr-cl-12",
+      "number": "12",
+      "heading": "Nitko ne smije biti podvrgnut samovoljnom miješanju u njegov privatni",
+      "text": "život, obitelj, dom ili prepisku.",
+      "sentences": [
+        "život, obitelj, dom ili prepisku."
+      ],
+      "hash": "43253d93fe548c459cb8d8d0a9c41e9b7bf65518c3cdd2318b76ddec7ba5f632",
+      "tokens_approx": 5,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-udhr-hr-cl-13",
+      "number": "13",
+      "heading": "Svatko ima pravo na slobodu kretanja i boravišta unutar granica države.",
+      "text": "",
+      "sentences": [],
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "tokens_approx": 0,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-udhr-hr-cl-14",
+      "number": "14",
+      "heading": "Svatko ima pravo napustiti bilo koju zemlju, uključujući svoju, i",
+      "text": "vratiti se u svoju zemlju.",
+      "sentences": [
+        "vratiti se u svoju zemlju."
+      ],
+      "hash": "d5994bc9ebff53c5525f64117dbc50d2a14d08cda6aa08bcd99fcfa3e9ab0a33",
+      "tokens_approx": 5,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-udhr-hr-cl-15",
+      "number": "15",
+      "heading": "Svatko ima pravo tražiti azil od progona.",
+      "text": "",
+      "sentences": [],
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "tokens_approx": 0,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-udhr-hr-cl-16",
+      "number": "16",
+      "heading": "Svatko ima pravo na državljanstvo.",
+      "text": "",
+      "sentences": [],
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "tokens_approx": 0,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-udhr-hr-cl-17",
+      "number": "17",
+      "heading": "Muškarci i žene imaju pravo sklopiti brak i zasnovati obitelj.",
+      "text": "",
+      "sentences": [],
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "tokens_approx": 0,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-udhr-hr-cl-18",
+      "number": "18",
+      "heading": "Svatko ima pravo na vlasništvo, sam ili zajedno s drugima.",
+      "text": "",
+      "sentences": [],
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "tokens_approx": 0,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-udhr-hr-cl-19",
+      "number": "19",
+      "heading": "Svatko ima pravo na slobodu mišljenja, savjesti i vjere.",
+      "text": "",
+      "sentences": [],
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "tokens_approx": 0,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-udhr-hr-cl-20",
+      "number": "20",
+      "heading": "Svatko ima pravo na slobodu izražavanja.",
+      "text": "",
+      "sentences": [],
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "tokens_approx": 0,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-udhr-hr-cl-21",
+      "number": "21",
+      "heading": "Svatko ima pravo na slobodu mirnog okupljanja i udruživanja.",
+      "text": "",
+      "sentences": [],
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "tokens_approx": 0,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-udhr-hr-cl-22",
+      "number": "22",
+      "heading": "Svatko ima pravo sudjelovati u upravljanju svojom zemljom.",
+      "text": "",
+      "sentences": [],
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "tokens_approx": 0,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-udhr-hr-cl-23",
+      "number": "23",
+      "heading": "Svatko, kao član društva, ima pravo na socijalnu sigurnost.",
+      "text": "",
+      "sentences": [],
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "tokens_approx": 0,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-udhr-hr-cl-24",
+      "number": "24",
+      "heading": "Svatko ima pravo na rad, slobodan izbor zaposlenja, pravedne uvjete",
+      "text": "rada.",
+      "sentences": [
+        "rada."
+      ],
+      "hash": "a7c9f630fb4ba4e470a104362742d8ae642ee89e7d84a244ed2352c3a2970c47",
+      "tokens_approx": 1,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-udhr-hr-cl-25",
+      "number": "25",
+      "heading": "Svatko ima pravo na odmor i slobodno vrijeme.",
+      "text": "",
+      "sentences": [],
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "tokens_approx": 0,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-udhr-hr-cl-26",
+      "number": "26",
+      "heading": "Svatko ima pravo na životni standard koji osigurava zdravlje i dobrobit.",
+      "text": "",
+      "sentences": [],
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "tokens_approx": 0,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-udhr-hr-cl-27",
+      "number": "27",
+      "heading": "Svatko ima pravo na obrazovanje.",
+      "text": "",
+      "sentences": [],
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "tokens_approx": 0,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-udhr-hr-cl-28",
+      "number": "28",
+      "heading": "Svatko ima pravo sudjelovati u kulturnom životu zajednice.",
+      "text": "",
+      "sentences": [],
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "tokens_approx": 0,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-udhr-hr-cl-29",
+      "number": "29",
+      "heading": "Svatko ima pravo na društveni i međunarodni poredak u kojem se prava i",
+      "text": "slobode iz ove Deklaracije mogu potpuno ostvariti.",
+      "sentences": [
+        "slobode iz ove Deklaracije mogu potpuno ostvariti."
+      ],
+      "hash": "043cec4d9cc7c9fb4c07086fe6763984f59065497a4354dd0393033aad7677c6",
+      "tokens_approx": 7,
+      "refs": {},
+      "notes": null
+    },
+    {
+      "id": "un-udhr-hr-cl-30",
+      "number": "30",
+      "heading": "Ništa se u ovoj Deklaraciji ne smije tumačiti kao pravo bilo koje",
+      "text": "države, skupine ili pojedinca na djelovanje s ciljem ukidanja prava i\nsloboda iz ove Deklaracije.",
+      "sentences": [
+        "države, skupine ili pojedinca na djelovanje s ciljem ukidanja prava i\nsloboda iz ove Deklaracije."
+      ],
+      "hash": "652118f88a22339d361c55c85f6864d0d715a9c47b876ecf9394a7057b16eb90",
+      "tokens_approx": 15,
+      "refs": {},
+      "notes": null
+    }
+  ]
+}

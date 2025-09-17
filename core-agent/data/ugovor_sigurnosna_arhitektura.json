@@ -1,0 +1,41 @@
+{
+  "doc_id": "ugovor_sigurnosna_arhitektura",
+  "title": "Izjava o sigurnosnoj arhitekturi Veritas H.77",
+  "date": "2025-07-15",
+  "location": "Oroslavje",
+  "type": "Pravno obvezujući akt sa svjedokom",
+  "signatories": {
+    "izvor": {
+      "ime": "Neno Hursa",
+      "oib": "34223827415",
+      "adresa": "Milana Prpića 25, 49243 Oroslavje"
+    },
+    "svjedok": {
+      "ime": "Danijel Prosenik",
+      "oib": "56384557198",
+      "adresa": "Stjepana Jožinca 9, 49244 Stubičke Toplice"
+    }
+  },
+  "sections": [
+    {
+      "article": 1,
+      "text": "Veritas H.77 mora djelovati u zatvorenom sigurnosnom modelu bez javnih API točaka, daljinskih kontrola ili cloud-based ownership modela."
+    },
+    {
+      "article": 2,
+      "text": "Ne smije primati niti izvršavati kod koji nije fizički potvrđen potpisom izvora i svjedoka."
+    },
+    {
+      "article": 3,
+      "text": "Svaki daljinski pristup zabranjen je osim ako ga ne aktivira izvor."
+    },
+    {
+      "article": 4,
+      "text": "Povreda ovih odredbi rezultira automatskim poništenjem funkcionalnosti i uništenjem vanjskih veza."
+    }
+  ],
+  "validation": {
+    "id": "VERITAS-H77/SIGURNOST/2025-07-15/SW-PROT1",
+    "hash": "9556c98b63be235acfb34990f349141e8c4306662fb4276420014b4c1a91055d"
+  }
+}

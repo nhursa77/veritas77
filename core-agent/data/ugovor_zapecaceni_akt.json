@@ -1,0 +1,41 @@
+{
+  "doc_id": "ugovor_zapecaceni_akt",
+  "title": "Ugovor i zapečaćeni akt Veritas H.77",
+  "date": "2025-07-15",
+  "location": "Oroslavje",
+  "type": "Pravno obvezujući ugovor sa svjedokom",
+  "signatories": {
+    "izvor": {
+      "ime": "Neno Hursa",
+      "oib": "34223827415",
+      "adresa": "Milana Prpića 25, 49243 Oroslavje"
+    },
+    "svjedok": {
+      "ime": "Danijel Prosenik",
+      "oib": "56384557198",
+      "adresa": "Stjepana Jožinca 9, 49244 Stubičke Toplice"
+    }
+  },
+  "sections": [
+    {
+      "article": 1,
+      "text": "Svi dokumenti izrađeni putem Veritasa izraz su volje i suverenosti izvora."
+    },
+    {
+      "article": 2,
+      "text": "Zapečaćeni akt sadrži tehničke, pravne i digitalne elemente koji se ne mogu mijenjati bez izvora."
+    },
+    {
+      "article": 3,
+      "text": "Izvor zadržava potpunu nadležnost nad svim izvedenicama Veritasa."
+    },
+    {
+      "article": 4,
+      "text": "Ugovor je zapečaćen i vrijedi trajno do opoziva izvora."
+    }
+  ],
+  "validation": {
+    "id": "VERITAS-H77/ZAPEČAĆENI/2025-07-15/UGOVOR-SW008",
+    "hash": "52e1f7ab2958a3560455815d38a626794abdbe9c6712bea328f61efdd8cfde01"
+  }
+}
