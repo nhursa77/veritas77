@@ -1,0 +1,37 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Databases and indexes
+*.sqlite3
+*.db
+*.sqlite
+
+# Chroma / LangChain indexes
+core-agent/core-indexes/
+offline-agent/core-indexes/
+online-agent/core-indexes/
+
+# Local data files (json, temp dumps)
+*.json
+!core-agent/data/*.json   # dozvoli json unutar data
+!offline-agent/data/*.json
+!online-agent/data/*.json
+
+# System files
+.DS_Store
+Thumbs.db
